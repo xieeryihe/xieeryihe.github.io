@@ -1,0 +1,287 @@
+[
+  {
+    "node_id": 0,
+    "class": "ViewGroup",
+    "bounds": [
+      0,
+      96,
+      118,
+      234
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 1,
+    "class": "OCRText",
+    "text": "基础信息",
+    "bounds": [
+      448,
+      139,
+      629,
+      193
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 2,
+    "class": "OCRText",
+    "text": "片名",
+    "bounds": [
+      36,
+      261,
+      133,
+      329
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 3,
+    "class": "OCRText",
+    "text": "向阳·花",
+    "bounds": [
+      260,
+      268,
+      427,
+      322
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 4,
+    "class": "OCRText",
+    "text": "外文名",
+    "bounds": [
+      34,
+      378,
+      174,
+      439
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 5,
+    "class": "OCRText",
+    "text": "We Girls",
+    "bounds": [
+      258,
+      380,
+      436,
+      431
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 6,
+    "class": "OCRText",
+    "text": "品类",
+    "bounds": [
+      32,
+      487,
+      134,
+      557
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 7,
+    "class": "OCRText",
+    "text": "电影",
+    "bounds": [
+      258,
+      492,
+      354,
+      551
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 8,
+    "class": "OCRText",
+    "text": "类型",
+    "bounds": [
+      36,
+      607,
+      130,
+      665
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 9,
+    "class": "OCRText",
+    "text": "剧情/犯罪",
+    "bounds": [
+      258,
+      607,
+      456,
+      665
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 10,
+    "class": "OCRText",
+    "text": "版本",
+    "bounds": [
+      36,
+      714,
+      130,
+      770
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 11,
+    "class": "OCRText",
+    "text": "CINITY 2D",
+    "bounds": [
+      263,
+      717,
+      403,
+      758
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 12,
+    "class": "OCRText",
+    "text": "语言",
+    "bounds": [
+      34,
+      814,
+      130,
+      882
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 13,
+    "class": "OCRText",
+    "text": "国语",
+    "bounds": [
+      260,
+      819,
+      354,
+      878
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 14,
+    "class": "OCRText",
+    "text": "时长",
+    "bounds": [
+      36,
+      931,
+      130,
+      990
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 15,
+    "class": "OCRText",
+    "text": "124分钟",
+    "bounds": [
+      260,
+      934,
+      419,
+      987
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 16,
+    "class": "OCRText",
+    "text": "片源地",
+    "bounds": [
+      36,
+      1043,
+      174,
+      1107
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 17,
+    "class": "OCRText",
+    "text": "中国大陆",
+    "bounds": [
+      263,
+      1048,
+      436,
+      1102
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 18,
+    "class": "OCRText",
+    "text": "2025-04-04",
+    "bounds": [
+      680,
+      1133,
+      940,
+      1182
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 19,
+    "class": "OCRText",
+    "text": "上映时间",
+    "bounds": [
+      38,
+      1155,
+      213,
+      1214
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 20,
+    "class": "OCRText",
+    "text": "中国大陆",
+    "bounds": [
+      260,
+      1163,
+      434,
+      1214
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 21,
+    "class": "OCRText",
+    "text": "09:00",
+    "bounds": [
+      680,
+      1192,
+      800,
+      1236
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  }
+]

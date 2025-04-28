@@ -1,0 +1,41 @@
+[
+  {
+    "node_id": 0,
+    "class": "OCRText",
+    "text": "丽颖",
+    "bounds": [
+      70,
+      2016,
+      152,
+      2052
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 1,
+    "class": "OCRText",
+    "text": "饰",
+    "bounds": [
+      157,
+      2018,
+      193,
+      2050
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 2,
+    "class": "OCRText",
+    "text": "高月香",
+    "bounds": [
+      39,
+      2069,
+      224,
+      2140
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  }
+]

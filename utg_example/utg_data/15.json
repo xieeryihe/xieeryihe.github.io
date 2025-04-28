@@ -1,0 +1,518 @@
+[
+  {
+    "node_id": 0,
+    "class": "FrameLayout",
+    "resource_id": [
+      "com.sankuai.meituan:id/button_ll"
+    ],
+    "content_desc": [
+      "返回按钮"
+    ],
+    "bounds": [
+      17,
+      96,
+      105,
+      228
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 1,
+    "class": "FrameLayout",
+    "resource_id": [
+      "com.sankuai.meituan:id/tv_titans_title_content"
+    ],
+    "text": [
+      "《向阳·花》推荐视频"
+    ],
+    "bounds": [
+      307,
+      128,
+      771,
+      196
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 2,
+    "class": "TextView",
+    "resource_id": "com.sankuai.meituan:id/tv_titans_title_content",
+    "text": "《向阳·花》推荐视频",
+    "bounds": [
+      307,
+      128,
+      771,
+      196
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 3,
+    "class": "View",
+    "bounds": [
+      0,
+      228,
+      1080,
+      456
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 4,
+    "class": "View",
+    "bounds": [
+      891,
+      299,
+      1042,
+      382
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 5,
+    "class": "TextView",
+    "text": "购票",
+    "bounds": [
+      891,
+      299,
+      1042,
+      382
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 6,
+    "class": "OCRText",
+    "text": "预告片",
+    "bounds": [
+      29,
+      485,
+      176,
+      546
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 7,
+    "class": "OCRText",
+    "text": "新片看点",
+    "bounds": [
+      472,
+      492,
+      646,
+      544
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 8,
+    "class": "OCRText",
+    "text": "精彩片段",
+    "bounds": [
+      709,
+      492,
+      880,
+      544
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 9,
+    "class": "OCRText",
+    "text": "官方视频",
+    "bounds": [
+      243,
+      495,
+      412,
+      539
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 10,
+    "class": "OCRText",
+    "text": "预告片",
+    "bounds": [
+      39,
+      612,
+      171,
+      663
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 11,
+    "class": "OCRText",
+    "text": "火热预售中",
+    "bounds": [
+      313,
+      736,
+      369,
+      753
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 12,
+    "class": "OCRText",
+    "text": "预告片",
+    "bounds": [
+      51,
+      739,
+      135,
+      787
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 13,
+    "class": "OCRText",
+    "text": "《向阳·花》预售开启赵丽颖高",
+    "bounds": [
+      434,
+      780,
+      993,
+      814
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 14,
+    "class": "OCRText",
+    "text": "月香终极爆发猛砸恶人",
+    "bounds": [
+      412,
+      841,
+      820,
+      882
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 15,
+    "class": "OCRText",
+    "text": "“硬碰硬”终极预告",
+    "bounds": [
+      116,
+      858,
+      318,
+      890
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 16,
+    "class": "OCRText",
+    "text": "00:45",
+    "bounds": [
+      60,
+      880,
+      142,
+      904
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 17,
+    "class": "OCRText",
+    "text": "预告片",
+    "bounds": [
+      50,
+      1016,
+      133,
+      1061
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 18,
+    "class": "OCRText",
+    "text": "《向阳·花》发布新预告赵丽颖",
+    "bounds": [
+      429,
+      1048,
+      998,
+      1097
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 19,
+    "class": "OCRText",
+    "text": "拔刀向恶人撑伞为姐妹",
+    "bounds": [
+      407,
+      1111,
+      824,
+      1160
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 20,
+    "class": "OCRText",
+    "text": "预告片",
+    "bounds": [
+      41,
+      1285,
+      140,
+      1341
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 21,
+    "class": "OCRText",
+    "text": "《向阳·花》发布新预告赵丽颖",
+    "bounds": [
+      432,
+      1326,
+      996,
+      1367
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 22,
+    "class": "OCRText",
+    "text": "豁出去活下来",
+    "bounds": [
+      89,
+      1336,
+      188,
+      1360
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 23,
+    "class": "OCRText",
+    "text": "“拼命搞钱”了",
+    "bounds": [
+      87,
+      1360,
+      178,
+      1387
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 24,
+    "class": "OCRText",
+    "text": "为赚够20万花式搞钱",
+    "bounds": [
+      410,
+      1387,
+      788,
+      1436
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 25,
+    "class": "OCRText",
+    "text": "00:51",
+    "bounds": [
+      55,
+      1415,
+      172,
+      1461
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 26,
+    "class": "OCRText",
+    "text": "预告片",
+    "bounds": [
+      45,
+      1564,
+      136,
+      1615
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 27,
+    "class": "OCRText",
+    "text": "《向阳·花》曝首支预告赵丽颖",
+    "bounds": [
+      429,
+      1601,
+      996,
+      1643
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 28,
+    "class": "OCRText",
+    "text": "4日全国上映",
+    "bounds": [
+      228,
+      1611,
+      336,
+      1651
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 29,
+    "class": "OCRText",
+    "text": "出去”预告",
+    "bounds": [
+      236,
+      1648,
+      335,
+      1675
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 30,
+    "class": "OCRText",
+    "text": "狠劲十足强悍回击生活",
+    "bounds": [
+      410,
+      1665,
+      822,
+      1706
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 31,
+    "class": "OCRText",
+    "text": "00:47",
+    "bounds": [
+      58,
+      1699,
+      137,
+      1733
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 32,
+    "class": "OCRText",
+    "text": "官方视频",
+    "bounds": [
+      43,
+      1826,
+      212,
+      1870
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 33,
+    "class": "OCRText",
+    "text": "制作特辑",
+    "bounds": [
+      51,
+      1957,
+      157,
+      1991
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 34,
+    "class": "OCRText",
+    "text": "《向阳·花》曝特别短片赵丽颖",
+    "bounds": [
+      432,
+      1987,
+      996,
+      2028
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 35,
+    "class": "OCRText",
+    "text": "高月香高爽瞬间暴烈释放",
+    "bounds": [
+      412,
+      2050,
+      863,
+      2091
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 36,
+    "class": "OCRText",
+    "text": "00:37",
+    "bounds": [
+      60,
+      2089,
+      147,
+      2116
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 37,
+    "class": "OCRText",
+    "text": "制作特辑",
+    "bounds": [
+      48,
+      2225,
+      162,
+      2269
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 38,
+    "class": "OCRText",
+    "text": "《向阳·花》曝角色特辑赵丽颖",
+    "bounds": [
+      429,
+      2260,
+      998,
+      2301
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  }
+]

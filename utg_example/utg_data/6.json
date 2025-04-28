@@ -1,0 +1,361 @@
+[
+  {
+    "node_id": 0,
+    "class": "FrameLayout",
+    "resource_id": [
+      "com.sankuai.meituan:id/button_ll"
+    ],
+    "content_desc": [
+      "返回按钮"
+    ],
+    "bounds": [
+      17,
+      96,
+      105,
+      228
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 1,
+    "class": "FrameLayout",
+    "resource_id": [
+      "com.sankuai.meituan:id/tv_titans_title_content"
+    ],
+    "text": [
+      "演出票务列表"
+    ],
+    "bounds": [
+      389,
+      128,
+      689,
+      196
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 2,
+    "class": "TextView",
+    "resource_id": "com.sankuai.meituan:id/tv_titans_title_content",
+    "text": "演出票务列表",
+    "bounds": [
+      389,
+      128,
+      689,
+      196
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 3,
+    "class": "View",
+    "bounds": [
+      0,
+      228,
+      1080,
+      2296
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 4,
+    "class": "View",
+    "bounds": [
+      181,
+      244,
+      1036,
+      338
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 5,
+    "class": "View",
+    "bounds": [
+      44,
+      261,
+      162,
+      321
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 6,
+    "class": "View",
+    "text": "全部",
+    "bounds": [
+      0,
+      351,
+      55,
+      478
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 7,
+    "class": "View",
+    "text": "演唱会",
+    "bounds": [
+      49,
+      351,
+      220,
+      478
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 8,
+    "class": "View",
+    "text": "音乐节",
+    "bounds": [
+      217,
+      351,
+      387,
+      478
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 9,
+    "class": "View",
+    "text": "话剧音乐剧",
+    "bounds": [
+      385,
+      351,
+      693,
+      478
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 10,
+    "class": "View",
+    "text": "脱口秀",
+    "bounds": [
+      690,
+      351,
+      860,
+      478
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 11,
+    "class": "View",
+    "text": "音乐会",
+    "bounds": [
+      858,
+      351,
+      1028,
+      478
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 12,
+    "class": "View",
+    "text": "戏曲艺术",
+    "bounds": [
+      1025,
+      351,
+      1080,
+      478
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 13,
+    "class": "View",
+    "bounds": [
+      33,
+      596,
+      1047,
+      1275
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 14,
+    "class": "View",
+    "bounds": [
+      55,
+      670,
+      346,
+      1058
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 15,
+    "class": "View",
+    "bounds": [
+      365,
+      670,
+      745,
+      1058
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 16,
+    "class": "View",
+    "bounds": [
+      764,
+      670,
+      1056,
+      1058
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 17,
+    "class": "View",
+    "bounds": [
+      360,
+      1273,
+      745,
+      1355
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 18,
+    "class": "View",
+    "bounds": [
+      929,
+      1438,
+      1047,
+      1509
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 19,
+    "class": "TextView",
+    "text": "限时优惠",
+    "bounds": [
+      66,
+      1440,
+      228,
+      1504
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 20,
+    "class": "TextView",
+    "text": "早鸟票",
+    "bounds": [
+      264,
+      1440,
+      387,
+      1504
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 21,
+    "class": "View",
+    "bounds": [
+      55,
+      1531,
+      277,
+      2043
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 22,
+    "class": "View",
+    "bounds": [
+      291,
+      1531,
+      514,
+      2043
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 23,
+    "class": "View",
+    "bounds": [
+      528,
+      1531,
+      750,
+      2043
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 24,
+    "class": "View",
+    "bounds": [
+      764,
+      1531,
+      987,
+      2043
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 25,
+    "class": "View",
+    "bounds": [
+      1001,
+      1531,
+      1080,
+      2043
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 26,
+    "class": "View",
+    "bounds": [
+      33,
+      2098,
+      1047,
+      2274
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 27,
+    "class": "View",
+    "bounds": [
+      297,
+      2213,
+      783,
+      2254
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  }
+]

@@ -1,0 +1,484 @@
+[
+  {
+    "node_id": 0,
+    "class": "ImageView",
+    "resource_id": "com.sankuai.meituan:id/page_back_ic",
+    "bounds": [
+      0,
+      96,
+      121,
+      217
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 1,
+    "class": "ImageView",
+    "resource_id": "com.sankuai.meituan:id/page_share_ic",
+    "bounds": [
+      959,
+      96,
+      1080,
+      217
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 2,
+    "class": "OCRText",
+    "text": "向阳·花",
+    "bounds": [
+      200,
+      112,
+      347,
+      154
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 3,
+    "class": "RelativeLayout",
+    "resource_id": [
+      "com.sankuai.meituan:id/qw2",
+      "com.sankuai.meituan:id/day",
+      "com.sankuai.meituan:id/kw6"
+    ],
+    "text": [
+      "今天 4月22日"
+    ],
+    "bounds": [
+      0,
+      247,
+      323,
+      338
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 4,
+    "class": "RelativeLayout",
+    "resource_id": [
+      "com.sankuai.meituan:id/qw2",
+      "com.sankuai.meituan:id/day",
+      "com.sankuai.meituan:id/kw6"
+    ],
+    "text": [
+      "明天 4月23日"
+    ],
+    "bounds": [
+      323,
+      247,
+      629,
+      338
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 5,
+    "class": "RelativeLayout",
+    "resource_id": [
+      "com.sankuai.meituan:id/qw2",
+      "com.sankuai.meituan:id/day",
+      "com.sankuai.meituan:id/kw6"
+    ],
+    "text": [
+      "后天 4月24日"
+    ],
+    "bounds": [
+      629,
+      247,
+      936,
+      338
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 6,
+    "class": "RelativeLayout",
+    "resource_id": [
+      "com.sankuai.meituan:id/qw2",
+      "com.sankuai.meituan:id/day",
+      "com.sankuai.meituan:id/kw6"
+    ],
+    "text": [
+      "周五 4月25日"
+    ],
+    "bounds": [
+      936,
+      247,
+      1080,
+      338
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 7,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.sankuai.meituan:id/eo4",
+      "com.sankuai.meituan:id/vau"
+    ],
+    "text": [
+      "上海全城"
+    ],
+    "bounds": [
+      41,
+      339,
+      210,
+      460
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 8,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.sankuai.meituan:id/g9c",
+      "com.sankuai.meituan:id/bmf"
+    ],
+    "text": [
+      "推荐排序"
+    ],
+    "bounds": [
+      334,
+      339,
+      503,
+      460
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 9,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.sankuai.meituan:id/umz",
+      "com.sankuai.meituan:id/qfj"
+    ],
+    "text": [
+      "品牌"
+    ],
+    "bounds": [
+      627,
+      339,
+      724,
+      460
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 10,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.sankuai.meituan:id/bc1z",
+      "com.sankuai.meituan:id/bbz7"
+    ],
+    "text": [
+      "筛选"
+    ],
+    "bounds": [
+      848,
+      339,
+      945,
+      460
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 11,
+    "class": "RelativeLayout",
+    "resource_id": [
+      "com.sankuai.meituan:id/search_view"
+    ],
+    "bounds": [
+      945,
+      339,
+      1080,
+      460
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 12,
+    "class": "RelativeLayout",
+    "resource_id": [
+      "com.sankuai.meituan:id/w4s",
+      "com.sankuai.meituan:id/roa",
+      "com.sankuai.meituan:id/uzu",
+      "com.sankuai.meituan:id/z_n",
+      "com.sankuai.meituan:id/d8t",
+      "com.sankuai.meituan:id/kpq",
+      "com.sankuai.meituan:id/u9v",
+      "com.sankuai.meituan:id/hm1",
+      "com.sankuai.meituan:id/p8",
+      "com.sankuai.meituan:id/l9b",
+      "com.sankuai.meituan:id/psm",
+      "com.sankuai.meituan:id/ip9",
+      "com.sankuai.meituan:id/c5_",
+      "com.sankuai.meituan:id/c5_",
+      "com.sankuai.meituan:id/c5_",
+      "com.sankuai.meituan:id/c5_",
+      "com.sankuai.meituan:id/c5_",
+      "com.sankuai.meituan:id/c5_",
+      "com.sankuai.meituan:id/c5_",
+      "com.sankuai.meituan:id/fhi",
+      "com.sankuai.meituan:id/iv4",
+      "com.sankuai.meituan:id/iez"
+    ],
+    "text": [
+      "博纳国际影城（中原店）",
+      "¥29.9",
+      "起",
+      "杨浦区国和路777号中原城市广场2座4层",
+      "3.0km",
+      "可退票",
+      "可改签",
+      "可领60元券",
+      "影城卡9.9元起",
+      "券包3折起",
+      "小吃",
+      "3D眼镜免费",
+      "近期场次: 18:40 21:00"
+    ],
+    "bounds": [
+      0,
+      461,
+      1080,
+      843
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 13,
+    "class": "RelativeLayout",
+    "resource_id": [
+      "com.sankuai.meituan:id/w4s",
+      "com.sankuai.meituan:id/roa",
+      "com.sankuai.meituan:id/uzu",
+      "com.sankuai.meituan:id/z_n",
+      "com.sankuai.meituan:id/d8t",
+      "com.sankuai.meituan:id/kpq",
+      "com.sankuai.meituan:id/u9v",
+      "com.sankuai.meituan:id/hm1",
+      "com.sankuai.meituan:id/p8",
+      "com.sankuai.meituan:id/l9b",
+      "com.sankuai.meituan:id/psm",
+      "com.sankuai.meituan:id/ip9",
+      "com.sankuai.meituan:id/c5_",
+      "com.sankuai.meituan:id/c5_",
+      "com.sankuai.meituan:id/c5_",
+      "com.sankuai.meituan:id/c5_",
+      "com.sankuai.meituan:id/c5_",
+      "com.sankuai.meituan:id/c5_",
+      "com.sankuai.meituan:id/fhi",
+      "com.sankuai.meituan:id/iv4",
+      "com.sankuai.meituan:id/iez"
+    ],
+    "text": [
+      "大光明电影院（宝山店）",
+      "¥29.8",
+      "起",
+      "宝山区高境镇殷高路65号3楼(殷高西路地铁站)",
+      "3.0km",
+      "可退票",
+      "可改签",
+      "可领2元券",
+      "券包4折起",
+      "小吃",
+      "3D眼镜免费",
+      "近期场次: 19:20 21:20"
+    ],
+    "bounds": [
+      0,
+      843,
+      1080,
+      1175
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 14,
+    "class": "RelativeLayout",
+    "resource_id": [
+      "com.sankuai.meituan:id/w4s",
+      "com.sankuai.meituan:id/roa",
+      "com.sankuai.meituan:id/uzu",
+      "com.sankuai.meituan:id/z_n",
+      "com.sankuai.meituan:id/d8t",
+      "com.sankuai.meituan:id/kpq",
+      "com.sankuai.meituan:id/u9v",
+      "com.sankuai.meituan:id/hm1",
+      "com.sankuai.meituan:id/p8",
+      "com.sankuai.meituan:id/l9b",
+      "com.sankuai.meituan:id/psm",
+      "com.sankuai.meituan:id/ip9",
+      "com.sankuai.meituan:id/c5_",
+      "com.sankuai.meituan:id/c5_",
+      "com.sankuai.meituan:id/c5_",
+      "com.sankuai.meituan:id/c5_",
+      "com.sankuai.meituan:id/c5_",
+      "com.sankuai.meituan:id/c5_",
+      "com.sankuai.meituan:id/c5_",
+      "com.sankuai.meituan:id/fhi",
+      "com.sankuai.meituan:id/iv4",
+      "com.sankuai.meituan:id/iez"
+    ],
+    "text": [
+      "SFC上影影城（国华广场店）",
+      "¥45",
+      "起",
+      "杨浦区闸殷路1555号国华广场4楼415",
+      "3.2km",
+      "可改签",
+      "可领60元券",
+      "影城卡7.9元起",
+      "小吃",
+      "3D眼镜免费",
+      "LUXE巨幕厅",
+      "4DX厅",
+      "近期场次: 20:25"
+    ],
+    "bounds": [
+      0,
+      1175,
+      1080,
+      1551
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 15,
+    "class": "RelativeLayout",
+    "resource_id": [
+      "com.sankuai.meituan:id/w4s",
+      "com.sankuai.meituan:id/roa",
+      "com.sankuai.meituan:id/uzu",
+      "com.sankuai.meituan:id/z_n",
+      "com.sankuai.meituan:id/d8t",
+      "com.sankuai.meituan:id/kpq",
+      "com.sankuai.meituan:id/u9v",
+      "com.sankuai.meituan:id/hm1",
+      "com.sankuai.meituan:id/p8",
+      "com.sankuai.meituan:id/l9b",
+      "com.sankuai.meituan:id/psm",
+      "com.sankuai.meituan:id/ip9",
+      "com.sankuai.meituan:id/c5_",
+      "com.sankuai.meituan:id/c5_",
+      "com.sankuai.meituan:id/c5_",
+      "com.sankuai.meituan:id/c5_",
+      "com.sankuai.meituan:id/c5_",
+      "com.sankuai.meituan:id/fhi",
+      "com.sankuai.meituan:id/iv4",
+      "com.sankuai.meituan:id/iez"
+    ],
+    "text": [
+      "SFC上影国际影城（新业坊店）",
+      "¥29.9",
+      "起",
+      "宝山区逸仙路1328号新业坊·源创10幢101",
+      "3.5km",
+      "可退票",
+      "可改签",
+      "可领60元券",
+      "小吃",
+      "3D眼镜免费",
+      "近期场次: 19:25 21:50"
+    ],
+    "bounds": [
+      0,
+      1551,
+      1080,
+      1883
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 16,
+    "class": "RelativeLayout",
+    "resource_id": [
+      "com.sankuai.meituan:id/w4s",
+      "com.sankuai.meituan:id/roa",
+      "com.sankuai.meituan:id/uzu",
+      "com.sankuai.meituan:id/z_n",
+      "com.sankuai.meituan:id/d8t",
+      "com.sankuai.meituan:id/kpq",
+      "com.sankuai.meituan:id/u9v",
+      "com.sankuai.meituan:id/hm1",
+      "com.sankuai.meituan:id/p8",
+      "com.sankuai.meituan:id/l9b",
+      "com.sankuai.meituan:id/psm",
+      "com.sankuai.meituan:id/ip9",
+      "com.sankuai.meituan:id/c5_",
+      "com.sankuai.meituan:id/c5_",
+      "com.sankuai.meituan:id/c5_",
+      "com.sankuai.meituan:id/c5_",
+      "com.sankuai.meituan:id/c5_",
+      "com.sankuai.meituan:id/fhi",
+      "com.sankuai.meituan:id/iv4",
+      "com.sankuai.meituan:id/iez"
+    ],
+    "text": [
+      "大光明丽星汇影城（杨浦店）",
+      "¥29.9",
+      "起",
+      "杨浦区民星路378号太平洋生活广场2F",
+      "4.2km",
+      "可退票",
+      "可改签",
+      "可领60元券",
+      "券包4折起",
+      "小吃",
+      "近期场次: 17:20 19:40 22:00"
+    ],
+    "bounds": [
+      0,
+      1883,
+      1080,
+      2215
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 17,
+    "class": "RelativeLayout",
+    "resource_id": [
+      "com.sankuai.meituan:id/w4s",
+      "com.sankuai.meituan:id/roa",
+      "com.sankuai.meituan:id/uzu",
+      "com.sankuai.meituan:id/z_n",
+      "com.sankuai.meituan:id/d8t",
+      "com.sankuai.meituan:id/kpq",
+      "com.sankuai.meituan:id/u9v",
+      "com.sankuai.meituan:id/hm1"
+    ],
+    "text": [
+      "SFC上影百联影城（又一城店）",
+      "¥45",
+      "起"
+    ],
+    "bounds": [
+      0,
+      2215,
+      1080,
+      2296
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  }
+]

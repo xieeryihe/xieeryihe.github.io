@@ -1,0 +1,235 @@
+[
+  {
+    "node_id": 0,
+    "class": "FrameLayout",
+    "resource_id": [
+      "com.sankuai.meituan:id/button_ll"
+    ],
+    "content_desc": [
+      "返回按钮"
+    ],
+    "bounds": [
+      17,
+      96,
+      105,
+      228
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 1,
+    "class": "FrameLayout",
+    "resource_id": [
+      "com.sankuai.meituan:id/tv_titans_title_content"
+    ],
+    "text": [
+      "《向阳·花》推荐视频"
+    ],
+    "bounds": [
+      307,
+      128,
+      771,
+      196
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 2,
+    "class": "TextView",
+    "resource_id": "com.sankuai.meituan:id/tv_titans_title_content",
+    "text": "《向阳·花》推荐视频",
+    "bounds": [
+      307,
+      128,
+      771,
+      196
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 3,
+    "class": "View",
+    "bounds": [
+      0,
+      228,
+      1080,
+      456
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 4,
+    "class": "View",
+    "bounds": [
+      891,
+      299,
+      1042,
+      382
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 5,
+    "class": "TextView",
+    "text": "购票",
+    "bounds": [
+      891,
+      299,
+      1042,
+      382
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 6,
+    "class": "View",
+    "bounds": [
+      33,
+      453,
+      176,
+      580
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 7,
+    "class": "View",
+    "bounds": [
+      242,
+      456,
+      409,
+      585
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 8,
+    "class": "View",
+    "bounds": [
+      475,
+      456,
+      643,
+      585
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 9,
+    "class": "View",
+    "bounds": [
+      709,
+      456,
+      877,
+      585
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 10,
+    "class": "OCRText",
+    "text": "预告片",
+    "bounds": [
+      39,
+      612,
+      171,
+      663
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 11,
+    "class": "View",
+    "bounds": [
+      0,
+      687,
+      1034,
+      965
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 12,
+    "class": "View",
+    "bounds": [
+      0,
+      962,
+      1034,
+      1240
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 13,
+    "class": "View",
+    "bounds": [
+      0,
+      1237,
+      1034,
+      1515
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 14,
+    "class": "View",
+    "bounds": [
+      0,
+      1512,
+      1034,
+      1790
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 15,
+    "class": "OCRText",
+    "text": "官方视频",
+    "bounds": [
+      43,
+      1826,
+      212,
+      1870
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 16,
+    "class": "View",
+    "bounds": [
+      0,
+      1897,
+      1034,
+      2175
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 17,
+    "class": "View",
+    "bounds": [
+      0,
+      2172,
+      1034,
+      2296
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  }
+]

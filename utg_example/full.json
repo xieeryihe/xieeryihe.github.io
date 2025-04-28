@@ -1,0 +1,1902 @@
+[
+  {
+    "page_id": 0,
+    "image_path": "tasks\\task_2025-04-22_16-05-16\\utg_data\\0.png",
+    "package": "com.sankuai.meituan",
+    "activity": "com.meituan.android.pt.homepage.activity.MainActivity",
+    "fragment": "Fragment(id:0x7f0a0059 name:AppCategorySelectFragment)",
+    "node_count": 38,
+    "summary": {
+      "type": "Content Display",
+      "description": {
+        "Header": "The header contains a location indicator (复旦大学(江湾校区)) and a search bar with placeholder text (额尔敦自助涮·草原牛羊畅吃) and a search button.",
+        "Content": "The content section displays various promotional advertisements and product listings. It includes items like food deals, coffee promotions, and live streaming content.",
+        "Footer": "The footer contains navigation icons for 推荐 (Recommendations), 消息 (Messages), 购物车 (Shopping Cart), and 我的 (My Account).",
+        "SideBar": "There is no sidebar visible in the image.",
+        "Function": "This page serves as a content display page, showcasing various promotions and product listings from different categories such as food, drinks, and live streaming. Users can navigate through these options using the footer icons."
+      }
+    },
+    "finished": false
+  },
+  {
+    "page_id": 1,
+    "image_path": "tasks\\task_2025-04-22_16-05-16\\utg_data\\1.png",
+    "package": "com.sankuai.meituan",
+    "activity": "com.meituan.android.movie.MovieMainActivity",
+    "fragment": "Fragment(id:0x7f0a0059 name:AppCategorySelectFragment)",
+    "node_count": 80,
+    "summary": {
+      "type": "Content Display",
+      "description": {
+        "Header": "The header contains a back arrow on the left and a search bar on the right. The title '电影演出' is displayed at the top.",
+        "Content": "The content section displays a list of movie recommendations, including titles like '哪吒之魔童降世', '猎狐·行动', '向阳·花', and '孤独的美食家'. Each item has a thumbnail image, a title, a rating, and a '购票' (buy tickets) button.",
+        "Footer": "",
+        "SideBar": "",
+        "Function": "This page displays a list of recommended movies and allows users to purchase tickets for them."
+      }
+    },
+    "finished": false
+  },
+  {
+    "page_id": 2,
+    "image_path": "tasks\\task_2025-04-22_16-05-16\\utg_data\\2.png",
+    "package": "com.sankuai.meituan",
+    "activity": "com.meituan.android.movie.movie.MYMeituanMovieDetailActivity",
+    "fragment": "Fragment(id:0x7f0a0059 name:AppCategorySelectFragment)",
+    "node_count": 41,
+    "summary": {
+      "type": "Content Display",
+      "description": {
+        "Header": "The header contains the title '电影' (Movies) at the center and a back arrow icon on the left.",
+        "Content": "The content section displays details about a movie titled '雷霆特攻队*' (Thunderbolts*), including its poster, title, genre, release date, and a brief introduction. It also shows the number of people who want to watch the movie and a section for cast members.",
+        "Footer": "There is no footer visible in the provided screenshot.",
+        "SideBar": "There is no sidebar visible in the provided screenshot.",
+        "Function": "This page provides detailed information about a specific movie, including its poster, title, genre, release date, a brief introduction, and cast members. Users can also see the number of people who want to watch the movie."
+      }
+    },
+    "finished": false
+  },
+  {
+    "page_id": 3,
+    "image_path": "tasks\\task_2025-04-22_16-05-16\\utg_data\\2.png",
+    "package": "com.sankuai.meituan",
+    "activity": "com.meituan.android.movie.movie.MYMeituanMovieDetailActivity",
+    "fragment": "Fragment(id:0x7f0a0059 name:AppCategorySelectFragment)",
+    "node_count": 19,
+    "summary": {
+      "type": "Content Display",
+      "description": {
+        "Header": "The header contains the movie title \"雷霆特攻队*\" (Thunderbolts*) and its genre \"动作 冒险\" (Action Adventure). There is also a play button icon indicating the movie poster.",
+        "Content": "The content section displays the movie details including the title, genre, release date, and a brief introduction. It also shows the number of people who want to watch the movie.",
+        "Footer": "The footer is not visible in the provided screenshot.",
+        "SideBar": "The sidebar is not visible in the provided screenshot.",
+        "Function": "This page provides detailed information about a specific movie, including its title, genre, release date, and a brief introduction. Users can also see how many people want to watch the movie."
+      }
+    },
+    "finished": false
+  },
+  {
+    "page_id": 4,
+    "image_path": "tasks\\task_2025-04-22_16-05-16\\utg_data\\2.png",
+    "package": "com.sankuai.meituan",
+    "activity": "com.meituan.android.movie.movie.MYMeituanMovieDetailActivity",
+    "fragment": "Fragment(id:0x7f0a0059 name:AppCategorySelectFragment)",
+    "node_count": 17,
+    "summary": {
+      "type": "Content Display",
+      "description": {
+        "Header": "The header contains the movie title '雷霆特攻队*' (Thunderbolts*) and its subtitle 'Thunderbolts*', along with the genre '动作 冒险' (Action Adventure) and release date '2025.04.30中国大陆上映 126分钟' (April 30, 2025, China mainland release, 126 minutes). There is also a play button icon indicating the movie poster.",
+        "Content": "The content section displays the movie's details including the title, genre, release date, and a brief introduction. It also shows the number of people who want to watch the movie ('51,067人想看').",
+        "Footer": "The footer is not visible in the provided screenshot.",
+        "SideBar": "The sidebar is not visible in the provided screenshot.",
+        "Function": "This page provides detailed information about the movie 'Thunderbolts*', including its title, genre, release date, and a brief introduction. Users can also see how many people want to watch the movie."
+      }
+    },
+    "finished": false
+  },
+  {
+    "page_id": 5,
+    "image_path": "tasks\\task_2025-04-22_16-05-16\\utg_data\\2.png",
+    "package": "com.sankuai.meituan",
+    "activity": "com.meituan.android.movie.MovieMainActivity",
+    "fragment": "Fragment(id:0x7f0a0059 name:AppCategorySelectFragment)",
+    "node_count": 78,
+    "summary": {
+      "type": "Content Display",
+      "description": {
+        "Header": "The header contains a back arrow on the left and a search bar on the right.",
+        "Content": "The content section displays a list of movies currently showing in theaters, including movie titles, ratings, and options to purchase tickets.",
+        "Footer": "The footer includes navigation icons at the bottom, such as Home, Movies/Theater, Shows, and My Account.",
+        "SideBar": "There is no sidebar visible in the image.",
+        "Function": "This page allows users to view and purchase tickets for movies currently showing in theaters. It also provides options for upcoming releases and other categories like shows."
+      }
+    },
+    "finished": false
+  },
+  {
+    "page_id": 3,
+    "image_path": "tasks\\task_2025-04-22_16-05-16\\utg_data\\3.png",
+    "package": "com.sankuai.meituan",
+    "activity": "com.sankuai.titans.adapter.mtapp.KNBWebViewActivity",
+    "fragment": "Fragment(id:0x7f0a0059 name:AppCategorySelectFragment)",
+    "node_count": 28,
+    "summary": {
+      "type": "Content Display",
+      "description": {
+        "Header": "The header contains a back arrow on the left and the title '演出票务列表' centered at the top.",
+        "Content": "The content section displays a list of theatrical performances with images, titles, ratings, and ticket purchase options.",
+        "Footer": "",
+        "SideBar": "",
+        "Function": "This page lists various theatrical performances available for purchase, including their ratings and ticket prices."
+      }
+    },
+    "finished": false
+  },
+  {
+    "page_id": 7,
+    "image_path": "tasks\\task_2025-04-22_16-05-16\\utg_data\\3.png",
+    "package": "com.sankuai.meituan",
+    "activity": "com.sankuai.titans.adapter.mtapp.KNBWebViewActivity",
+    "fragment": "Fragment(id:0x7f0a0059 name:AppCategorySelectFragment)",
+    "node_count": 28,
+    "summary": {
+      "type": "Content Display",
+      "description": {
+        "Header": "The header contains a back arrow on the left and the title '演出票务列表' (Performance Ticket List) centered at the top.",
+        "Content": "The content section displays a list of performance tickets with images, titles, ratings, and prices. Each item includes a '去抢票' (Buy Tickets) button.",
+        "Footer": "",
+        "SideBar": "",
+        "Function": "This page lists available performance tickets with details such as title, rating, price, and availability. Users can view more ticket options by scrolling through the list."
+      }
+    },
+    "finished": false
+  },
+  {
+    "page_id": 4,
+    "image_path": "tasks\\task_2025-04-22_16-05-16\\utg_data\\4.png",
+    "package": "com.sankuai.meituan",
+    "activity": "com.meituan.android.pt.mtcity.BaseCityActivity",
+    "fragment": "Fragment(id:0x7f0a0059 name:AppCategorySelectFragment)",
+    "node_count": 33,
+    "summary": {
+      "type": "Searching Result",
+      "description": {
+        "Header": "包含搜索框和两个标签：'国内(含港澳台)' 和 '上海区县'",
+        "Content": "显示多个城市和地区的列表，分为热门城市和按字母顺序排列的城市列表。",
+        "Footer": "",
+        "SideBar": "",
+        "Function": "该页面用于搜索和选择城市或地区。用户可以通过输入关键词在搜索框中查找特定的城市或地区，并且可以查看热门城市列表以及按字母顺序排列的城市列表。"
+      }
+    },
+    "finished": false
+  },
+  {
+    "page_id": 9,
+    "image_path": "tasks\\task_2025-04-22_16-05-16\\utg_data\\4.png",
+    "package": "com.sankuai.meituan",
+    "activity": "com.sankuai.titans.adapter.mtapp.KNBWebViewActivity",
+    "fragment": "Fragment(id:0x7f0a0059 name:AppCategorySelectFragment)",
+    "node_count": 28,
+    "summary": {
+      "type": "Content Display",
+      "description": {
+        "Header": "The header contains a back arrow on the left and the title '演出票务列表' centered at the top.",
+        "Content": "The content displays a list of theater performances with images, titles, ratings, and ticket purchase options.",
+        "Footer": "",
+        "SideBar": "",
+        "Function": "This page lists various theater performances with details such as ratings and ticket prices, allowing users to view and potentially purchase tickets."
+      }
+    },
+    "finished": false
+  },
+  {
+    "page_id": 10,
+    "image_path": "tasks\\task_2025-04-22_16-05-16\\utg_data\\3.png",
+    "package": "com.sankuai.meituan",
+    "activity": "com.meituan.android.pt.mtcity.BaseCityActivity",
+    "fragment": "Fragment(id:0x7f0a0059 name:AppCategorySelectFragment)",
+    "node_count": 33,
+    "summary": {
+      "type": "Searching Result",
+      "description": {
+        "Header": "包含搜索框和两个标签：'国内(含港澳台)' 和 '上海区县'",
+        "Content": "显示多个城市和地区的列表，分为热门城市和按字母顺序排列的城市列表。",
+        "Footer": "",
+        "SideBar": "",
+        "Function": "该页面用于搜索和选择城市或地区。用户可以通过输入关键词在搜索框中查找特定的城市或地区，并且可以查看热门城市列表以及按字母顺序排列的城市列表。"
+      }
+    },
+    "finished": false
+  },
+  {
+    "page_id": 11,
+    "image_path": "tasks\\task_2025-04-22_16-05-16\\utg_data\\4.png",
+    "package": "com.sankuai.meituan",
+    "activity": "com.sankuai.titans.adapter.mtapp.KNBWebViewActivity",
+    "fragment": "Fragment(id:0x7f0a0059 name:AppCategorySelectFragment)",
+    "node_count": 28,
+    "summary": {
+      "type": "Content Display",
+      "description": {
+        "Header": "The header contains a back arrow on the left and the title '演出票务列表' centered at the top.",
+        "Content": "The content displays a list of theatrical performances with images, titles, ratings, and ticket purchase options. Each item includes a poster image, performance name, rating, and a button for purchasing tickets.",
+        "Footer": "",
+        "SideBar": "",
+        "Function": "This page lists various theatrical performances available for purchase, providing details such as ratings and ticket prices. Users can select specific performances to view more details or purchase tickets."
+      }
+    },
+    "finished": false
+  },
+  {
+    "page_id": 12,
+    "image_path": "tasks\\task_2025-04-22_16-05-16\\utg_data\\3.png",
+    "package": "com.sankuai.meituan",
+    "activity": "com.sankuai.titans.adapter.mtapp.KNBWebViewActivity",
+    "fragment": "Fragment(id:0x7f0a0059 name:AppCategorySelectFragment)",
+    "node_count": 30,
+    "summary": {
+      "type": "Content Display",
+      "description": {
+        "Header": "The header contains a back arrow on the left and the title \"演出票务列表\" centered at the top.",
+        "Content": "The content displays a list of concert events with images, names, locations, and ticket purchase options. It includes sections like '齐豫FOREVER SPLENDOR LIVE CONCERT' and '热门演唱会'.",
+        "Footer": "The footer contains navigation options such as '全部时间' and '智能排序', indicating different sorting methods for the displayed content.",
+        "SideBar": "There is no visible sidebar in this screenshot.",
+        "Function": "This page allows users to view and select concert events, with options to book tickets for specific performances."
+      }
+    },
+    "finished": false
+  },
+  {
+    "page_id": 13,
+    "image_path": "tasks\\task_2025-04-22_16-05-16\\utg_data\\3.png",
+    "package": "com.sankuai.meituan",
+    "activity": "com.meituan.android.pt.mtcity.BaseCityActivity",
+    "fragment": "Fragment(id:0x7f0a0059 name:AppCategorySelectFragment)",
+    "node_count": 33,
+    "summary": {
+      "type": "Searching Result",
+      "description": {
+        "Header": "包含搜索框和两个标签：'国内(含港澳台)' 和 '上海区县'",
+        "Content": "显示多个城市和区县的列表，分为热门城市和按字母顺序排列的城市列表。",
+        "Footer": "",
+        "SideBar": "",
+        "Function": "该页面用于搜索和选择特定的城市或区县。用户可以通过输入关键词在搜索框中查找城市或区县，并且可以查看热门城市列表以及按字母顺序排列的城市列表。"
+      }
+    },
+    "finished": false
+  },
+  {
+    "page_id": 14,
+    "image_path": "tasks\\task_2025-04-22_16-05-16\\utg_data\\4.png",
+    "package": "com.sankuai.meituan",
+    "activity": "com.sankuai.titans.adapter.mtapp.KNBWebViewActivity",
+    "fragment": "Fragment(id:0x7f0a0059 name:AppCategorySelectFragment)",
+    "node_count": 30,
+    "summary": {
+      "type": "Content Display",
+      "description": {
+        "Header": "The header contains a back arrow on the left and the title \"演出票务列表\" centered at the top.",
+        "Content": "The content displays a list of concert events with images, names, locations, and ticket prices. It includes sections like '齐豫FOREVER SPLENDOR LIVE CONCERT' and '热门演唱会'.",
+        "Footer": "The footer contains navigation options such as '全部时间' and '智能排序', indicating different sorting methods for the displayed content.",
+        "SideBar": "There is no visible sidebar in this screenshot.",
+        "Function": "This page displays a list of concert events, allowing users to view details about each event, including images, names, locations, and ticket prices. Users can also sort the events by time or popularity."
+      }
+    },
+    "finished": false
+  },
+  {
+    "page_id": 5,
+    "image_path": "tasks\\task_2025-04-22_16-05-16\\utg_data\\5.png",
+    "package": "com.sankuai.meituan",
+    "activity": "com.meituan.android.movie.movie.MovieWebViewActivity",
+    "fragment": "Fragment(id:0x7f0a0059 name:AppCategorySelectFragment)",
+    "node_count": 17,
+    "summary": {
+      "type": "Content Display",
+      "description": {
+        "Header": "The header contains the title 猫眼演出详情 (Meiguan Performance Details) and a back arrow icon on the left, and a share icon on the right.",
+        "Content": "The content section displays a pop-up message about real-name viewing requirements for the concert event.",
+        "Footer": "",
+        "SideBar": "",
+        "Function": "This page provides information about the real-name viewing requirements for a specific concert event and prompts the user to acknowledge these requirements."
+      }
+    },
+    "finished": false
+  },
+  {
+    "page_id": 16,
+    "image_path": "tasks\\task_2025-04-22_16-05-16\\utg_data\\5.png",
+    "package": "com.sankuai.meituan",
+    "activity": "com.sankuai.titans.adapter.mtapp.KNBWebViewActivity",
+    "fragment": "Fragment(id:0x7f0a0059 name:AppCategorySelectFragment)",
+    "node_count": 30,
+    "summary": {
+      "type": "Content Display",
+      "description": {
+        "Header": "The header contains a back arrow on the left and the title \"演出票务列表\" centered at the top.",
+        "Content": "The content displays a list of concert events with images, names, locations, and ticket prices. It includes sections like '齐豫FOREVER SPLENDOR LIVE CONCERT' and '热门演唱会'.",
+        "Footer": "The footer contains navigation options such as '全部时间' and '智能排序', indicating different sorting methods for the displayed content.",
+        "SideBar": "There is no visible sidebar in the provided image.",
+        "Function": "This page displays a list of concert events, allowing users to view details about each event, including images, names, locations, and ticket prices. Users can also sort the events by time or popularity."
+      }
+    },
+    "finished": false
+  },
+  {
+    "page_id": 17,
+    "image_path": "tasks\\task_2025-04-22_16-05-16\\utg_data\\3.png",
+    "package": "com.sankuai.meituan",
+    "activity": "com.sankuai.titans.adapter.mtapp.KNBWebViewActivity",
+    "fragment": "Fragment(id:0x7f0a0059 name:AppCategorySelectFragment)",
+    "node_count": 17,
+    "summary": {
+      "type": "Content Display",
+      "description": {
+        "Header": "The header contains a back arrow on the left and the title \"演出票务列表\" centered at the top.",
+        "Content": "The content section displays a list of performances with details such as the name, rating, price, and date of each performance.",
+        "Footer": "",
+        "SideBar": "",
+        "Function": "This page displays a list of performances available for ticket purchase, allowing users to view details about each performance and select one to proceed with booking."
+      }
+    },
+    "finished": false
+  },
+  {
+    "page_id": 18,
+    "image_path": "tasks\\task_2025-04-22_16-05-16\\utg_data\\3.png",
+    "package": "com.sankuai.meituan",
+    "activity": "com.sankuai.titans.adapter.mtapp.KNBWebViewActivity",
+    "fragment": "Fragment(id:0x7f0a0059 name:AppCategorySelectFragment)",
+    "node_count": 8,
+    "summary": {
+      "type": "Searching Result",
+      "description": {
+        "Header": "包含返回按钮（左上角）和标题“搜索”（居中）",
+        "Content": "显示搜索框，提示用户可以搜索明星、演出、场馆等信息",
+        "Footer": "",
+        "SideBar": "",
+        "Function": "该页面用于用户输入搜索关键词，以便在应用中查找相关的明星、演出或场馆信息。"
+      }
+    },
+    "finished": false
+  },
+  {
+    "page_id": 19,
+    "image_path": "tasks\\task_2025-04-22_16-05-16\\utg_data\\3.png",
+    "package": "com.sankuai.meituan",
+    "activity": "com.sankuai.titans.adapter.mtapp.KNBWebViewActivity",
+    "fragment": "Fragment(id:0x7f0a0059 name:AppCategorySelectFragment)",
+    "node_count": 8,
+    "summary": {
+      "type": "Searching Result",
+      "description": {
+        "Header": "包含返回按钮（左上角）和标题“搜索”（居中）",
+        "Content": "显示搜索框，提示用户可以搜索明星、演出、场馆等信息",
+        "Footer": "",
+        "SideBar": "",
+        "Function": "该页面用于用户输入搜索关键词，以便在应用中查找相关信息。"
+      }
+    },
+    "finished": false
+  },
+  {
+    "page_id": 6,
+    "image_path": "tasks\\task_2025-04-22_16-05-16\\utg_data\\6.png",
+    "package": "com.sankuai.meituan",
+    "activity": "com.sankuai.titans.adapter.mtapp.KNBWebViewActivity",
+    "fragment": "Fragment(id:0x7f0a0059 name:AppCategorySelectFragment)",
+    "node_count": 17,
+    "summary": {
+      "type": "Content Display",
+      "description": {
+        "Header": "The header contains a back arrow on the left and the title \"演出票务列表\" centered at the top.",
+        "Content": "The content displays a list of performances with details such as the name, rating, price, and date of each performance.",
+        "Footer": "",
+        "SideBar": "",
+        "Function": "This page displays a list of performances available for ticket purchase, allowing users to view details about each performance and select one to proceed with booking."
+      }
+    },
+    "finished": false
+  },
+  {
+    "page_id": 21,
+    "image_path": "tasks\\task_2025-04-22_16-05-16\\utg_data\\6.png",
+    "package": "com.sankuai.meituan",
+    "activity": "com.meituan.android.movie.MovieMainActivity",
+    "fragment": "Fragment(id:0x7f0a0059 name:AppCategorySelectFragment)",
+    "node_count": 76,
+    "summary": {
+      "type": "Content Display",
+      "description": {
+        "Header": "The header contains a back arrow on the left and a search bar on the right. The title '电影演出' is displayed at the top.",
+        "Content": "The content section displays a list of movie recommendations, including titles like '私家侦探', '哪吒之魔童降世', and '猎狐·行动'. Each item has a poster image, a title, a rating, and a '购票' (buy ticket) button.",
+        "Footer": "",
+        "SideBar": "",
+        "Function": "This page showcases recommended movies and allows users to purchase tickets directly from the app."
+      }
+    },
+    "finished": false
+  },
+  {
+    "page_id": 22,
+    "image_path": "tasks\\task_2025-04-22_16-05-16\\utg_data\\1.png",
+    "package": "com.sankuai.meituan",
+    "activity": "com.sankuai.titans.adapter.mtapp.KNBWebViewActivity",
+    "fragment": "Fragment(id:0x7f0a0059 name:AppCategorySelectFragment)",
+    "node_count": 8,
+    "summary": {
+      "type": "Content Display",
+      "description": {
+        "Header": "The header contains a back arrow on the left and the title \"演出票务列表\" centered at the top.",
+        "Content": "The content section displays a list of演出票务 (performance tickets) items, each represented by a placeholder card.",
+        "Footer": "",
+        "SideBar": "",
+        "Function": "This page displays a list of performance tickets available in Shanghai, allowing users to view and potentially purchase tickets."
+      }
+    },
+    "finished": false
+  },
+  {
+    "page_id": 23,
+    "image_path": "tasks\\task_2025-04-22_16-05-16\\utg_data\\3.png",
+    "package": "com.sankuai.meituan",
+    "activity": "com.sankuai.titans.adapter.mtapp.KNBWebViewActivity",
+    "fragment": "Fragment(id:0x7f0a0059 name:AppCategorySelectFragment)",
+    "node_count": 28,
+    "summary": {
+      "type": "Content Display",
+      "description": {
+        "Header": "The header contains a back arrow on the left and the title '演出票务列表' (Performance Ticket List) centered at the top.",
+        "Content": "The content section displays a list of performance tickets with images, titles, ratings, and prices. Each item includes a thumbnail image, the name of the performance, its rating, and the price.",
+        "Footer": "",
+        "SideBar": "",
+        "Function": "This page lists available performance tickets, allowing users to view details such as the performance name, rating, and price. Users can also see promotional offers like discounts."
+      }
+    },
+    "finished": false
+  },
+  {
+    "page_id": 24,
+    "image_path": "tasks\\task_2025-04-22_16-05-16\\utg_data\\6.png",
+    "package": "com.sankuai.meituan",
+    "activity": "com.meituan.android.movie.MovieMainActivity",
+    "fragment": "Fragment(id:0x7f0a0059 name:AppCategorySelectFragment)",
+    "node_count": 78,
+    "summary": {
+      "type": "Content Display",
+      "description": {
+        "Header": "The header contains a back arrow on the left and a search bar on the right. The title '电影演出' (Movie Performances) is displayed at the top.",
+        "Content": "The content section displays a list of movie performances, including titles, ratings, and options to purchase tickets. There are also promotional sections for events like '抢票播报站' (Ticket Booking Station) and '天天特惠' (Daily Specials).",
+        "Footer": "The footer contains navigation icons for different sections such as 首页 (Home), 电影/影院 (Movies/Theater), 演出 (Performances), and 我的 (My Account).",
+        "SideBar": "There is no sidebar visible in the image.",
+        "Function": "This page is designed to showcase and allow users to purchase tickets for various movie performances. It includes a search bar for finding specific movies, promotional sections, and a list of currently showing and upcoming movies."
+      }
+    },
+    "finished": false
+  },
+  {
+    "page_id": 25,
+    "image_path": "tasks\\task_2025-04-22_16-05-16\\utg_data\\1.png",
+    "package": "com.sankuai.meituan",
+    "activity": "com.meituan.android.movie.movie.MYMeituanMovieDetailActivity",
+    "fragment": "Fragment(id:0x7f0a0059 name:AppCategorySelectFragment)",
+    "node_count": 48,
+    "summary": {
+      "type": "Content Display",
+      "description": {
+        "Header": "The header contains the movie title '向阳·花' (We Girls) and its subtitle 'We Girls'. There is also a back arrow icon on the left and a share icon on the right.",
+        "Content": "The content section displays details about the movie, including the poster image, release date, rating, and a brief introduction. It also lists cast members with their roles.",
+        "Footer": "The footer contains a red button labeled '特惠购票' (Special Ticket Purchase) at the bottom.",
+        "SideBar": "There is no sidebar visible in the provided screenshot.",
+        "Function": "This page provides detailed information about a movie, including its title, release date, rating, cast, and a brief introduction. Users can also purchase tickets through the special ticket purchase button."
+      }
+    },
+    "finished": false
+  },
+  {
+    "page_id": 7,
+    "image_path": "tasks\\task_2025-04-22_16-05-16\\utg_data\\7.png",
+    "package": "com.sankuai.meituan",
+    "activity": "com.maoyan.android.presentation.actor.MYActorDetailActivity",
+    "fragment": "Fragment(id:0x7f0a0059 name:AppCategorySelectFragment)",
+    "node_count": 25,
+    "summary": {
+      "type": "Personal Profile",
+      "description": {
+        "Header": "The header contains a back arrow on the left and a share icon on the right.",
+        "Content": "The content displays a profile summary including the name 'Xiaogang Feng', a profile picture, and statistics such as total box office earnings, number of director works, and total fans.",
+        "Footer": "",
+        "SideBar": "",
+        "Function": "This page provides a detailed personal profile of a celebrity, including their career achievements, birth date, and fan count."
+      }
+    },
+    "finished": false
+  },
+  {
+    "page_id": 27,
+    "image_path": "tasks\\task_2025-04-22_16-05-16\\utg_data\\7.png",
+    "package": "com.sankuai.meituan",
+    "activity": "com.meituan.android.movie.movie.MYMeituanMovieDetailActivity",
+    "fragment": "Fragment(id:0x7f0a0059 name:AppCategorySelectFragment)",
+    "node_count": 48,
+    "summary": {
+      "type": "Content Display",
+      "description": {
+        "Header": "The header contains the movie title '向阳·花' (We Girls) and a brief description of the movie. There is also a back arrow icon on the left and a share icon on the right.",
+        "Content": "The content section displays details about the movie, including its rating, number of viewers who want to watch it, and the number of viewers who have watched it. It also includes a synopsis and cast information.",
+        "Footer": "The footer contains a red button labeled '特惠购票' (Special Ticket Purchase) at the bottom.",
+        "SideBar": "There is no sidebar visible in the image.",
+        "Function": "This page provides detailed information about a specific movie, including its title, rating, viewer statistics, synopsis, and cast. Users can also purchase tickets through the special ticket purchase button."
+      }
+    },
+    "finished": false
+  },
+  {
+    "page_id": 8,
+    "image_path": "tasks\\task_2025-04-22_16-05-16\\utg_data\\8.png",
+    "package": "com.sankuai.meituan",
+    "activity": "com.meituan.android.movie.tradebase.activity.MovieCinemaListActivity",
+    "fragment": "Fragment(id:0x7f0a0059 name:AppCategorySelectFragment)",
+    "node_count": 18,
+    "summary": {
+      "type": "Searching Result",
+      "description": {
+        "Header": "The header contains the movie title 向阳·花 with a rating of 9.3 stars. There are also navigation options for different dates (today, tomorrow, the day after tomorrow, and Friday).",
+        "Content": "The content displays a list of cinema venues with their names, locations, distances, prices, and available showtimes.",
+        "Footer": "",
+        "SideBar": "",
+        "Function": "This page shows the search results for movie showtimes at various cinemas in Shanghai. Users can view details such as venue name, location, distance, price, and available showtimes."
+      }
+    },
+    "finished": false
+  },
+  {
+    "page_id": 29,
+    "image_path": "tasks\\task_2025-04-22_16-05-16\\utg_data\\8.png",
+    "package": "com.sankuai.meituan",
+    "activity": "com.meituan.android.movie.movie.MYMeituanMovieDetailActivity",
+    "fragment": "Fragment(id:0x7f0a0059 name:AppCategorySelectFragment)",
+    "node_count": 48,
+    "summary": {
+      "type": "Content Display",
+      "description": {
+        "Header": "The header contains the movie title '向阳·花' (We Girls) and its subtitle 'We Girls'. There is also a back arrow icon on the left and a share icon on the right.",
+        "Content": "The content section displays details about the movie, including the poster image, release date, rating, and a brief introduction. It also lists cast members with their respective roles.",
+        "Footer": "The footer contains a red button labeled '特惠购票' (Special Ticket Purchase) at the bottom.",
+        "SideBar": "There is no sidebar visible in the provided screenshot.",
+        "Function": "This page provides detailed information about a movie, including its title, release date, rating, cast, and a brief introduction. Users can also purchase tickets through the special ticket purchase button."
+      }
+    },
+    "finished": false
+  },
+  {
+    "page_id": 30,
+    "image_path": "tasks\\task_2025-04-22_16-05-16\\utg_data\\2.png",
+    "package": "com.sankuai.meituan",
+    "activity": "com.meituan.android.movie.movie.MYMeituanMovieDetailActivity",
+    "fragment": "Fragment(id:0x7f0a0059 name:AppCategorySelectFragment)",
+    "node_count": 48,
+    "summary": {
+      "type": "Content Display",
+      "description": {
+        "Header": "The header contains the movie title '向阳·花' (We Girls) and a brief description of the movie. There is also a back arrow icon on the left and a share icon on the right.",
+        "Content": "The content section displays details about the movie, including its rating, number of viewers who want to watch it, and the number of viewers who have watched it. It also includes a synopsis and cast information.",
+        "Footer": "The footer contains a red button labeled '特惠购票' (Special Ticket Purchase) at the bottom.",
+        "SideBar": "There is no sidebar visible in the image.",
+        "Function": "This page provides detailed information about a specific movie, including its title, rating, synopsis, cast, and ticket purchase options."
+      }
+    },
+    "finished": false
+  },
+  {
+    "page_id": 9,
+    "image_path": "tasks\\task_2025-04-22_16-05-16\\utg_data\\9.png",
+    "package": "com.sankuai.meituan",
+    "activity": "com.sankuai.titans.adapter.mtapp.KNBWebViewActivity",
+    "fragment": "Fragment(id:0x7f0a0059 name:AppCategorySelectFragment)",
+    "node_count": 18,
+    "summary": {
+      "type": "Content Display",
+      "description": {
+        "Header": "The header contains the title '《向阳·花》推荐视频' (The recommended videos of 向阳·花) at the center. There is a back arrow on the left.",
+        "Content": "The content section displays a list of video thumbnails and titles related to the movie 向阳·花. Each item includes a thumbnail image, a title, and a play button.",
+        "Footer": "",
+        "SideBar": "",
+        "Function": "This page displays recommended videos for the movie 向阳·花, allowing users to view different types of videos such as trailers, official videos, and special features."
+      }
+    },
+    "finished": false
+  },
+  {
+    "page_id": 32,
+    "image_path": "tasks\\task_2025-04-22_16-05-16\\utg_data\\9.png",
+    "package": "com.sankuai.meituan",
+    "activity": "com.meituan.android.movie.movie.MYMeituanMovieDetailActivity",
+    "fragment": "Fragment(id:0x7f0a0059 name:AppCategorySelectFragment)",
+    "node_count": 48,
+    "summary": {
+      "type": "Content Display",
+      "description": {
+        "Header": "The header contains the movie title '向阳·花' (We Girls) and a brief description of the movie. There is also a back arrow icon on the left and a share icon on the right.",
+        "Content": "The content section displays details about the movie, including its rating, number of viewers, and a brief synopsis. It also includes cast information with headshots and names.",
+        "Footer": "The footer contains a red button labeled '特惠购票' (Special Ticket Purchase) at the bottom.",
+        "SideBar": "There is no sidebar visible in the image.",
+        "Function": "This page provides detailed information about a specific movie, including its title, rating, synopsis, cast, and ticket purchase options."
+      }
+    },
+    "finished": false
+  },
+  {
+    "page_id": 33,
+    "image_path": "tasks\\task_2025-04-22_16-05-16\\utg_data\\2.png",
+    "package": "com.sankuai.meituan",
+    "activity": "com.maoyan.android.presentation.actor.MYActorDetailActivity",
+    "fragment": "Fragment(id:0x7f0a0059 name:AppCategorySelectFragment)",
+    "node_count": 26,
+    "summary": {
+      "type": "Personal Profile",
+      "description": {
+        "Header": "The header contains a back arrow on the left and a share icon on the right. The title '王菊' (Ju Wang) is displayed prominently.",
+        "Content": "The content section displays personal information about Ju Wang, including her total box office earnings, number of starring works, and total fans. Below this, there is a brief biography and a section titled '作品' (Works) showing representative works.",
+        "Footer": "",
+        "SideBar": "",
+        "Function": "This page provides a detailed profile of Ju Wang, including her career achievements, personal details, and representative works. It allows users to follow her."
+      }
+    },
+    "finished": false
+  },
+  {
+    "page_id": 34,
+    "image_path": "tasks\\task_2025-04-22_16-05-16\\utg_data\\7.png",
+    "package": "com.sankuai.meituan",
+    "activity": "com.meituan.android.movie.movie.MYMeituanMovieDetailActivity",
+    "fragment": "Fragment(id:0x7f0a0059 name:AppCategorySelectFragment)",
+    "node_count": 48,
+    "summary": {
+      "type": "Content Display",
+      "description": {
+        "Header": "The header contains the movie title '向阳·花' (We Girls) and a brief description of the movie. There is also a back arrow icon on the left and a share icon on the right.",
+        "Content": "The content section displays details about the movie, including its rating, number of viewers who want to watch it, and the number of viewers who have watched it. It also includes a synopsis and cast information.",
+        "Footer": "The footer contains a red button labeled '特惠购票' (Special Ticket Purchase) at the bottom.",
+        "SideBar": "There is no sidebar visible in the image.",
+        "Function": "This page provides detailed information about a movie, including its title, rating, viewer statistics, synopsis, and cast. Users can also purchase tickets through the special ticket purchase button."
+      }
+    },
+    "finished": false
+  },
+  {
+    "page_id": 35,
+    "image_path": "tasks\\task_2025-04-22_16-05-16\\utg_data\\2.png",
+    "package": "com.sankuai.meituan",
+    "activity": "com.meituan.android.movie.tradebase.activity.MovieCinemaListActivity",
+    "fragment": "Fragment(id:0x7f0a0059 name:AppCategorySelectFragment)",
+    "node_count": 18,
+    "summary": {
+      "type": "Searching Result",
+      "description": {
+        "Header": "The header contains a back arrow on the left, a movie poster with the title \"向阳·花\" and its rating (9.3) in the center, and a refresh icon on the right.",
+        "Content": "The content displays a list of cinema venues with their names, locations, prices, distances, and available showtimes. Each venue entry includes additional details like refundable tickets, exchangeable tickets, discount coupons, food options, 3D glasses availability, and special hall types.",
+        "Footer": "There are no footer components visible in this screenshot.",
+        "SideBar": "There are no side bar components visible in this screenshot.",
+        "Function": "This page shows the search results for movie theaters in Shanghai, displaying various cinema venues along with their details such as location, price, distance, and available showtimes."
+      }
+    },
+    "finished": false
+  },
+  {
+    "page_id": 36,
+    "image_path": "tasks\\task_2025-04-22_16-05-16\\utg_data\\8.png",
+    "package": "com.sankuai.meituan",
+    "activity": "com.meituan.android.movie.movie.MYMeituanMovieDetailActivity",
+    "fragment": "Fragment(id:0x7f0a0059 name:AppCategorySelectFragment)",
+    "node_count": 48,
+    "summary": {
+      "type": "Content Display",
+      "description": {
+        "Header": "The header contains the movie title '向阳·花' (We Girls) and a brief description of the movie. There is also a back arrow icon on the left and a share icon on the right.",
+        "Content": "The content section displays details about the movie, including its rating, number of people who want to watch it, and the number of people who have watched it. It also includes a synopsis and cast information.",
+        "Footer": "The footer contains a red button labeled '特惠购票' (Special Ticket Purchase) at the bottom.",
+        "SideBar": "There is no sidebar visible in the image.",
+        "Function": "This page provides detailed information about a specific movie, including its title, rating, synopsis, cast, and ticket purchase options."
+      }
+    },
+    "finished": false
+  },
+  {
+    "page_id": 10,
+    "image_path": "tasks\\task_2025-04-22_16-05-16\\utg_data\\10.png",
+    "package": "com.sankuai.meituan",
+    "activity": "com.meituan.android.mrn.container.MRNBaseActivity",
+    "fragment": "Fragment(id:0x7f0a0059 name:AppCategorySelectFragment)",
+    "node_count": 2,
+    "summary": {
+      "type": "Content Display",
+      "description": {
+        "Header": "The header contains a back arrow icon on the left and a download/upload icon on the right. The title '1/1' is displayed in the center.",
+        "Content": "It displays a single image of a person with text below the image indicating the name and role of the person.",
+        "Footer": "",
+        "SideBar": "",
+        "Function": "This page is designed to display a single piece of content, likely an image with associated metadata such as the name and role of the person depicted."
+      }
+    },
+    "finished": false
+  },
+  {
+    "page_id": 38,
+    "image_path": "tasks\\task_2025-04-22_16-05-16\\utg_data\\10.png",
+    "package": "com.sankuai.meituan",
+    "activity": "com.meituan.android.movie.movie.MYMeituanMovieDetailActivity",
+    "fragment": "Fragment(id:0x7f0a0059 name:AppCategorySelectFragment)",
+    "node_count": 48,
+    "summary": {
+      "type": "Content Display",
+      "description": {
+        "Header": "The header contains the movie title '向阳·花' (We Girls) and its subtitle 'We Girls'. There is also a back arrow icon on the left and a share icon on the right.",
+        "Content": "The content section displays details about the movie, including the poster image, release date, rating, and a brief introduction. It also lists cast members with their roles.",
+        "Footer": "The footer contains a red button labeled '特惠购票' (Special Ticket Purchase) at the bottom.",
+        "SideBar": "There is no sidebar visible in the provided screenshot.",
+        "Function": "This page provides detailed information about a movie, including its title, release date, rating, cast, and a brief introduction. Users can also purchase tickets through the special ticket purchase button."
+      }
+    },
+    "finished": false
+  },
+  {
+    "page_id": 39,
+    "image_path": "tasks\\task_2025-04-22_16-05-16\\utg_data\\2.png",
+    "package": "com.sankuai.meituan",
+    "activity": "com.meituan.android.movie.tradebase.activity.MovieCinemaListActivity",
+    "fragment": "Fragment(id:0x7f0a0059 name:AppCategorySelectFragment)",
+    "node_count": 18,
+    "summary": {
+      "type": "Searching Result",
+      "description": {
+        "Header": "The header contains a back arrow on the left, a movie poster with the title \"向阳·花\" and its rating (9.3) in the center, and a refresh icon on the right.",
+        "Content": "The content displays a list of cinema venues with their names, locations, prices, distances, and available showtimes. Each venue entry includes options like refundable tickets, changeable tickets, discount coupons, food options, and 3D glasses availability.",
+        "Footer": "There are no footer components visible in this screenshot.",
+        "SideBar": "There are no side bar components visible in this screenshot.",
+        "Function": "This page shows the search results for movie theaters based on the selected date and location. Users can view different cinema options, including their prices, distances, and available showtimes."
+      }
+    },
+    "finished": false
+  },
+  {
+    "page_id": 40,
+    "image_path": "tasks\\task_2025-04-22_16-05-16\\utg_data\\8.png",
+    "package": "com.sankuai.meituan",
+    "activity": "com.meituan.android.movie.movie.MYMeituanMovieDetailActivity",
+    "fragment": "Fragment(id:0x7f0a0059 name:AppCategorySelectFragment)",
+    "node_count": 48,
+    "summary": {
+      "type": "Content Display",
+      "description": {
+        "Header": "The header contains the movie title '向阳·花' (We Girls) and a brief description of the movie. There is also a back arrow icon on the left and a share icon on the right.",
+        "Content": "The content section displays details about the movie, including its rating, number of viewers who want to watch it, and the number of viewers who have watched it. It also includes a synopsis and cast information.",
+        "Footer": "The footer contains a red button labeled '特惠购票' (Special Ticket Purchase) at the bottom.",
+        "SideBar": "There is no sidebar visible in the image.",
+        "Function": "This page provides detailed information about a specific movie, including its title, rating, viewer statistics, synopsis, and cast. Users can also purchase tickets through the special ticket purchase button."
+      }
+    },
+    "finished": false
+  },
+  {
+    "page_id": 41,
+    "image_path": "tasks\\task_2025-04-22_16-05-16\\utg_data\\2.png",
+    "package": "com.sankuai.meituan",
+    "activity": "com.meituan.android.movie.tradebase.activity.MovieCinemaListActivity",
+    "fragment": "Fragment(id:0x7f0a0059 name:AppCategorySelectFragment)",
+    "node_count": 18,
+    "summary": {
+      "type": "Searching Result",
+      "description": {
+        "Header": "The header contains a back arrow on the left, a movie poster with the title 向阳·花 and its rating (9.3 stars) in the center, and a refresh icon on the right.",
+        "Content": "The content displays a list of cinema venues with their names, locations, prices, distances, and available showtimes. Each venue entry includes additional details like refundable tickets, changeable tickets, discount coupons, food options, and 3D glasses availability.",
+        "Footer": "There are no footer components visible in this screenshot.",
+        "SideBar": "There are no side bar components visible in this screenshot.",
+        "Function": "This page shows the search results for movie theaters based on the selected date and location. Users can view different cinema venues, their prices, distances, and available showtimes."
+      }
+    },
+    "finished": false
+  },
+  {
+    "page_id": 42,
+    "image_path": "tasks\\task_2025-04-22_16-05-16\\utg_data\\8.png",
+    "package": "com.sankuai.meituan",
+    "activity": "com.meituan.android.movie.movie.MYMeituanMovieDetailActivity",
+    "fragment": "Fragment(id:0x7f0a0059 name:AppCategorySelectFragment)",
+    "node_count": 48,
+    "summary": {
+      "type": "Content Display",
+      "description": {
+        "Header": "The header contains the movie title '向阳·花' (We Girls) and a brief description of the movie. There is also a back arrow icon on the left and a share icon on the right.",
+        "Content": "The content section displays details about the movie, including its rating, number of viewers who want to watch it, and the number of viewers who have watched it. It also includes a synopsis and cast information.",
+        "Footer": "The footer contains a red button labeled '特惠购票' (Special Ticket Purchase) at the bottom.",
+        "SideBar": "There is no sidebar visible in the image.",
+        "Function": "This page provides detailed information about a specific movie, including its title, rating, viewer statistics, synopsis, and cast. Users can also purchase tickets through the special ticket purchase button."
+      }
+    },
+    "finished": false
+  },
+  {
+    "page_id": 43,
+    "image_path": "tasks\\task_2025-04-22_16-05-16\\utg_data\\2.png",
+    "package": "com.sankuai.meituan",
+    "activity": "com.maoyan.android.presentation.actor.MYActorDetailActivity",
+    "fragment": "Fragment(id:0x7f0a0059 name:AppCategorySelectFragment)",
+    "node_count": 26,
+    "summary": {
+      "type": "Personal Profile",
+      "description": {
+        "Header": "The header contains a back arrow on the left and a share icon on the right. The title '王菊' (Ju Wang) is displayed prominently.",
+        "Content": "The content section displays personal information about Ju Wang, including her total box office earnings, number of starring works, and total fans. Below this, there is a brief biography and a section titled '作品' (Works) showing representative works.",
+        "Footer": "",
+        "SideBar": "",
+        "Function": "This page provides a detailed profile of Ju Wang, including her career achievements, personal details, and representative works. It allows users to follow her."
+      }
+    },
+    "finished": false
+  },
+  {
+    "page_id": 44,
+    "image_path": "tasks\\task_2025-04-22_16-05-16\\utg_data\\7.png",
+    "package": "com.sankuai.meituan",
+    "activity": "com.meituan.android.movie.movie.MYMeituanMovieDetailActivity",
+    "fragment": "Fragment(id:0x7f0a0059 name:AppCategorySelectFragment)",
+    "node_count": 48,
+    "summary": {
+      "type": "Content Display",
+      "description": {
+        "Header": "The header contains the movie title '向阳·花' (We Girls) and a brief description of the movie. There is also a back arrow icon on the left and a share icon on the right.",
+        "Content": "The content section displays details about the movie, including its rating, number of viewers who want to watch it, and the number of viewers who have watched it. It also includes a synopsis and cast information.",
+        "Footer": "The footer contains a red button labeled '特惠购票' (Special Ticket Purchase) at the bottom.",
+        "SideBar": "There is no sidebar visible in the image.",
+        "Function": "This page provides detailed information about a specific movie, including its title, rating, synopsis, cast, and ticket purchase options."
+      }
+    },
+    "finished": false
+  },
+  {
+    "page_id": 45,
+    "image_path": "tasks\\task_2025-04-22_16-05-16\\utg_data\\2.png",
+    "package": "com.sankuai.meituan",
+    "activity": "com.sankuai.titans.adapter.mtapp.KNBWebViewActivity",
+    "fragment": "Fragment(id:0x7f0a0059 name:AppCategorySelectFragment)",
+    "node_count": 18,
+    "summary": {
+      "type": "Content Display",
+      "description": {
+        "Header": "The header contains the title '《向阳·花》推荐视频' (Toward the Sun · Flower Recommended Videos) at the center.",
+        "Content": "The content section displays a list of video thumbnails with titles and durations. Each thumbnail has a play button indicating that they can be played.",
+        "Footer": "",
+        "SideBar": "",
+        "Function": "This page displays recommended videos related to the movie 向阳·花 (Toward the Sun · Flower). Users can view different types of videos such as trailers, official videos, and special features."
+      }
+    },
+    "finished": false
+  },
+  {
+    "page_id": 46,
+    "image_path": "tasks\\task_2025-04-22_16-05-16\\utg_data\\9.png",
+    "package": "com.sankuai.meituan",
+    "activity": "com.meituan.android.movie.movie.MYMeituanMovieDetailActivity",
+    "fragment": "Fragment(id:0x7f0a0059 name:AppCategorySelectFragment)",
+    "node_count": 48,
+    "summary": {
+      "type": "Content Display",
+      "description": {
+        "Header": "The header contains the movie title '向阳·花' (We Girls) and a brief description of the movie. There is also a back arrow icon on the left and a share icon on the right.",
+        "Content": "The content section displays details about the movie, including its rating, number of viewers who want to watch it, and the number of viewers who have watched it. It also includes a synopsis and cast information.",
+        "Footer": "The footer contains a red button labeled '特惠购票' (Special Ticket Purchase) at the bottom.",
+        "SideBar": "There is no sidebar visible in the image.",
+        "Function": "This page provides detailed information about a movie, including its title, rating, viewer statistics, synopsis, and cast. Users can also purchase tickets through the special ticket purchase button."
+      }
+    },
+    "finished": false
+  },
+  {
+    "page_id": 11,
+    "image_path": "tasks\\task_2025-04-22_16-05-16\\utg_data\\11.png",
+    "package": "com.sankuai.meituan",
+    "activity": "com.meituan.android.mrn.container.MRNBaseActivity",
+    "fragment": "Fragment(id:0x7f0a0059 name:AppCategorySelectFragment)",
+    "node_count": 10,
+    "summary": {
+      "type": "Content Display",
+      "description": {
+        "Header": "包含取消按钮、标题“看过”和发布按钮，发布按钮位于右上角。",
+        "Content": "显示用户在猫眼记录的第3部作品的评分信息，包括评分星星和用户评论区。",
+        "Footer": "",
+        "SideBar": "",
+        "Function": "用户可以对已观看的作品进行评分，并通过发布按钮提交评分。"
+      }
+    },
+    "finished": false
+  },
+  {
+    "page_id": 48,
+    "image_path": "tasks\\task_2025-04-22_16-05-16\\utg_data\\11.png",
+    "package": "com.sankuai.meituan",
+    "activity": "com.meituan.android.movie.movie.MYMeituanMovieDetailActivity",
+    "fragment": "Fragment(id:0x7f0a0059 name:AppCategorySelectFragment)",
+    "node_count": 48,
+    "summary": {
+      "type": "Content Display",
+      "description": {
+        "Header": "The header contains the movie title 向阳·花 (We Girls) and its subtitle We Girls. There is also a back arrow on the left and a share icon on the right.",
+        "Content": "The content section displays details about the movie, including the poster image, release date, rating, and a brief introduction. It also lists cast members with their roles.",
+        "Footer": "The footer contains a red button labeled 特惠购票 (Special Ticket Purchase) and navigation tabs for 视频 (Videos) and 剧照 (Stills).",
+        "SideBar": "There is no sidebar visible in the provided screenshot.",
+        "Function": "This page provides detailed information about a specific movie, including its title, release date, rating, cast, and a brief introduction. Users can also purchase tickets through the special ticket purchase button."
+      }
+    },
+    "finished": false
+  },
+  {
+    "page_id": 49,
+    "image_path": "tasks\\task_2025-04-22_16-05-16\\utg_data\\2.png",
+    "package": "com.sankuai.meituan",
+    "activity": "com.meituan.android.movie.tradebase.activity.MovieCinemaListActivity",
+    "fragment": "Fragment(id:0x7f0a0059 name:AppCategorySelectFragment)",
+    "node_count": 18,
+    "summary": {
+      "type": "Searching Result",
+      "description": {
+        "Header": "The header contains the movie title (向阳·花) and its rating (9.3 stars) at the top. There is also a back arrow icon on the left and a refresh icon on the right.",
+        "Content": "The content section displays a list of cinema venues with their names, locations, prices, distances, and available showtimes. Each venue entry includes details such as ticket prices, distance, and additional options like refundable tickets, changeable tickets, discounts, and food options.",
+        "Footer": "There are no footer components visible in this screenshot.",
+        "SideBar": "There are no side bar components visible in this screenshot.",
+        "Function": "This page displays search results for movie showtimes at various cinemas. Users can view different cinema options, including their locations, prices, and available showtimes. Additional filters and sorting options are available at the top."
+      }
+    },
+    "finished": false
+  },
+  {
+    "page_id": 50,
+    "image_path": "tasks\\task_2025-04-22_16-05-16\\utg_data\\8.png",
+    "package": "com.sankuai.meituan",
+    "activity": "com.meituan.android.movie.movie.MYMeituanMovieDetailActivity",
+    "fragment": "Fragment(id:0x7f0a0059 name:AppCategorySelectFragment)",
+    "node_count": 48,
+    "summary": {
+      "type": "Content Display",
+      "description": {
+        "Header": "The header contains the movie title '向阳·花' (We Girls) and a brief description of the movie. There is also a back arrow icon on the left and a share icon on the right.",
+        "Content": "The content section displays details about the movie, including its rating, number of viewers who want to watch it, and the number of viewers who have watched it. It also includes a synopsis and cast information.",
+        "Footer": "The footer contains a red button labeled '特惠购票' (Special Ticket Purchase) at the bottom.",
+        "SideBar": "There is no sidebar visible in the image.",
+        "Function": "This page provides detailed information about a movie, including its title, rating, viewer statistics, synopsis, and cast. Users can also purchase tickets through the special ticket purchase button."
+      }
+    },
+    "finished": false
+  },
+  {
+    "page_id": 51,
+    "image_path": "tasks\\task_2025-04-22_16-05-16\\utg_data\\2.png",
+    "package": "com.sankuai.meituan",
+    "activity": "com.maoyan.android.presentation.actor.MYActorDetailActivity",
+    "fragment": "Fragment(id:0x7f0a0059 name:AppCategorySelectFragment)",
+    "node_count": 26,
+    "summary": {
+      "type": "Personal Profile",
+      "description": {
+        "Header": "The header contains a back arrow on the left and a share icon on the right. The title '赵丽颖' (Zhao Liying) is displayed prominently.",
+        "Content": "The content section displays personal information about Zhao Liying, including her career achievements, such as movie box office earnings, main works, and total fans.",
+        "Footer": "",
+        "SideBar": "",
+        "Function": "This page provides detailed personal information about Zhao Liying, including her career highlights, achievements, and fan statistics."
+      }
+    },
+    "finished": false
+  },
+  {
+    "page_id": 52,
+    "image_path": "tasks\\task_2025-04-22_16-05-16\\utg_data\\7.png",
+    "package": "com.sankuai.meituan",
+    "activity": "com.meituan.android.movie.movie.MYMeituanMovieDetailActivity",
+    "fragment": "Fragment(id:0x7f0a0059 name:AppCategorySelectFragment)",
+    "node_count": 48,
+    "summary": {
+      "type": "Content Display",
+      "description": {
+        "Header": "The header contains the movie title 向阳·花 (We Girls) and its subtitle We Girls. There is also a back arrow on the left and a share icon on the right.",
+        "Content": "The content section displays details about the movie, including the poster image, release date, rating, and a brief introduction. It also lists cast members with their roles.",
+        "Footer": "The footer contains a red button labeled 特惠购票 (Special Ticket Purchase) at the bottom.",
+        "SideBar": "There is no sidebar visible in the provided screenshot.",
+        "Function": "This page provides detailed information about a specific movie, including its title, release date, rating, cast, and a brief introduction. Users can also purchase tickets through the special ticket purchase button."
+      }
+    },
+    "finished": false
+  },
+  {
+    "page_id": 53,
+    "image_path": "tasks\\task_2025-04-22_16-05-16\\utg_data\\2.png",
+    "package": "com.sankuai.meituan",
+    "activity": "com.maoyan.android.presentation.actor.MYActorDetailActivity",
+    "fragment": "Fragment(id:0x7f0a0059 name:AppCategorySelectFragment)",
+    "node_count": 25,
+    "summary": {
+      "type": "Personal Profile",
+      "description": {
+        "Header": "The header contains the profile picture of the person, the name (啜妮 Ni Chuo), and a follow button.",
+        "Content": "The content section displays personal information such as total box office earnings, number of main works, and total fans.",
+        "Footer": "",
+        "SideBar": "",
+        "Function": "This page provides detailed personal information about a celebrity, including their career highlights, achievements, and fan count."
+      }
+    },
+    "finished": false
+  },
+  {
+    "page_id": 54,
+    "image_path": "tasks\\task_2025-04-22_16-05-16\\utg_data\\7.png",
+    "package": "com.sankuai.meituan",
+    "activity": "com.meituan.android.movie.movie.MYMeituanMovieDetailActivity",
+    "fragment": "Fragment(id:0x7f0a0059 name:AppCategorySelectFragment)",
+    "node_count": 48,
+    "summary": {
+      "type": "Content Display",
+      "description": {
+        "Header": "The header contains the movie title '向阳·花' (We Girls) and its subtitle 'We Girls'. There is also a back arrow icon on the left and a share icon on the right.",
+        "Content": "The content section displays details about the movie, including the poster image, release date, rating, and a brief introduction. It also includes cast information with headshots and names.",
+        "Footer": "",
+        "SideBar": "",
+        "Function": "This page provides detailed information about a specific movie, including its title, release date, rating, cast, and a brief introduction. Users can also view videos and photos related to the movie."
+      }
+    },
+    "finished": false
+  },
+  {
+    "page_id": 55,
+    "image_path": "tasks\\task_2025-04-22_16-05-16\\utg_data\\2.png",
+    "package": "com.sankuai.meituan",
+    "activity": "com.meituan.android.movie.movie.MYMeituanMovieDetailActivity",
+    "fragment": "Fragment(id:0x7f0a0059 name:AppCategorySelectFragment)",
+    "node_count": 48,
+    "summary": {
+      "type": "Content Display",
+      "description": {
+        "Header": "The header contains the title '向阳·花' (We Girls) and a subtitle 'We Girls'. There is also a movie poster on the left side.",
+        "Content": "The content section displays details about the movie 'We Girls', including its release date, rating, number of viewers who want to watch it, and a brief introduction. It also shows cast members with their names and roles.",
+        "Footer": "",
+        "SideBar": "",
+        "Function": "This page provides detailed information about the movie 'We Girls', including its title, release date, rating, viewer count, and cast. It also offers options to watch the movie or purchase tickets."
+      }
+    },
+    "finished": false
+  },
+  {
+    "page_id": 12,
+    "image_path": "tasks\\task_2025-04-22_16-05-16\\utg_data\\12.png",
+    "package": "com.sankuai.meituan",
+    "activity": "com.meituan.android.movie.mrnservice.MovieMrnTrailerActivity",
+    "fragment": "Fragment(id:0x7f0a0059 name:AppCategorySelectFragment)",
+    "node_count": 19,
+    "summary": {
+      "type": "Content Display",
+      "description": {
+        "Header": "The header contains a back arrow on the left and the title '向阳·花' in the center.",
+        "Content": "The content section displays a movie poster at the top, followed by a title and a brief description. Below that, there is a section labeled '全部视频 20部' showing video thumbnails with play buttons. At the bottom, there is a comments section with a comment from 李先生9004.",
+        "Footer": "",
+        "SideBar": "",
+        "Function": "This page is designed to display detailed information about a movie, including its poster, title, rating, release date, and related videos. Users can also view comments and potentially purchase tickets."
+      }
+    },
+    "finished": false
+  },
+  {
+    "page_id": 57,
+    "image_path": "tasks\\task_2025-04-22_16-05-16\\utg_data\\12.png",
+    "package": "com.sankuai.meituan",
+    "activity": "com.meituan.android.movie.movie.MYMeituanMovieDetailActivity",
+    "fragment": "Fragment(id:0x7f0a0059 name:AppCategorySelectFragment)",
+    "node_count": 48,
+    "summary": {
+      "type": "Content Display",
+      "description": {
+        "Header": "The header contains the movie title '向阳·花' (We Girls) and a brief description of the movie. There is also a back arrow icon on the left and a share icon on the right.",
+        "Content": "The content section displays details about the movie, including its rating, number of people who want to watch it, and the number of people who have watched it. It also includes a synopsis and cast information.",
+        "Footer": "The footer contains a red button labeled '特惠购票' (Special Ticket Purchase) at the bottom.",
+        "SideBar": "There is no sidebar visible in the image.",
+        "Function": "This page provides detailed information about a specific movie, including its title, rating, synopsis, cast, and ticket purchase options."
+      }
+    },
+    "finished": false
+  },
+  {
+    "page_id": 58,
+    "image_path": "tasks\\task_2025-04-22_16-05-16\\utg_data\\2.png",
+    "package": "com.sankuai.meituan",
+    "activity": "com.meituan.android.movie.movie.MYMeituanMovieDetailActivity",
+    "fragment": "Fragment(id:0x7f0a0059 name:AppCategorySelectFragment)",
+    "node_count": 48,
+    "summary": {
+      "type": "Content Display",
+      "description": {
+        "Header": "The header contains the movie title '向阳·花' (We Girls) and a brief description of the movie. There is also a back arrow icon on the left and a share icon on the right.",
+        "Content": "The content section displays details about the movie, including its rating, number of viewers who want to watch it, and the number of viewers who have watched it. It also includes a synopsis and cast information.",
+        "Footer": "The footer contains a red button labeled '特惠购票' (Special Ticket Purchase) at the bottom.",
+        "SideBar": "There is no sidebar visible in the image.",
+        "Function": "This page provides detailed information about a specific movie, including its title, rating, synopsis, cast, and ticket purchase options."
+      }
+    },
+    "finished": false
+  },
+  {
+    "page_id": 59,
+    "image_path": "tasks\\task_2025-04-22_16-05-16\\utg_data\\2.png",
+    "package": "com.sankuai.meituan",
+    "activity": "com.meituan.android.movie.movie.MYMeituanMovieDetailActivity",
+    "fragment": "Fragment(id:0x7f0a0059 name:AppCategorySelectFragment)",
+    "node_count": 48,
+    "summary": {
+      "type": "Content Display",
+      "description": {
+        "Header": "The header contains the movie title '向阳·花' (We Girls) and its subtitle 'We Girls'. There is also a back arrow icon on the left and a share icon on the right.",
+        "Content": "The content section displays details about the movie, including the poster image, release date, rating, and a brief introduction. It also includes cast information with headshots and names.",
+        "Footer": "The footer contains a red button labeled '特惠购票' (Special Ticket Purchase) at the bottom.",
+        "SideBar": "There is no sidebar visible in the provided screenshot.",
+        "Function": "This page provides detailed information about a specific movie, including its title, release date, rating, cast, and a brief introduction. Users can also purchase tickets through the special ticket purchase button."
+      }
+    },
+    "finished": false
+  },
+  {
+    "page_id": 60,
+    "image_path": "tasks\\task_2025-04-22_16-05-16\\utg_data\\2.png",
+    "package": "com.sankuai.meituan",
+    "activity": "com.meituan.android.mrn.container.MRNBaseActivity",
+    "fragment": "Fragment(id:0x7f0a0059 name:AppCategorySelectFragment)",
+    "node_count": 1,
+    "summary": {
+      "type": "Content Display",
+      "description": {
+        "Header": "The header contains a back arrow icon on the left and a download/upload icon on the right. The title '1/2' is displayed in the center.",
+        "Content": "The content section displays a close-up image of a person with text below it indicating the name of the character.",
+        "Footer": "",
+        "SideBar": "",
+        "Function": "This page appears to be part of a media application, likely a movie or TV show streaming service. It displays a still image from a film or series, possibly a character profile or a scene shot. The '1/2' at the top suggests this is the first of two images or frames."
+      }
+    },
+    "finished": false
+  },
+  {
+    "page_id": 61,
+    "image_path": "tasks\\task_2025-04-22_16-05-16\\utg_data\\10.png",
+    "package": "com.sankuai.meituan",
+    "activity": "com.meituan.android.movie.movie.MYMeituanMovieDetailActivity",
+    "fragment": "Fragment(id:0x7f0a0059 name:AppCategorySelectFragment)",
+    "node_count": 48,
+    "summary": {
+      "type": "Content Display",
+      "description": {
+        "Header": "The header contains the movie title '向阳·花' (We Girls) and a brief description of the movie. There is also a back arrow icon on the left and a share icon on the right.",
+        "Content": "The content section displays details about the movie, including its rating, number of viewers who want to watch it, and the number of viewers who have watched it. It also includes a synopsis and cast information.",
+        "Footer": "The footer contains a red button labeled '特惠购票' (Special Ticket Purchase) at the bottom.",
+        "SideBar": "There is no sidebar visible in the image.",
+        "Function": "This page provides detailed information about a specific movie, including its title, rating, synopsis, cast, and ticket purchase options."
+      }
+    },
+    "finished": false
+  },
+  {
+    "page_id": 13,
+    "image_path": "tasks\\task_2025-04-22_16-05-16\\utg_data\\13.png",
+    "package": "com.sankuai.meituan",
+    "activity": "com.meituan.android.mrn.container.MRNBaseActivity",
+    "fragment": "Fragment(id:0x7f0a0059 name:AppCategorySelectFragment)",
+    "node_count": 22,
+    "summary": {
+      "type": "Content Display",
+      "description": {
+        "Header": "The header contains the title '基础信息' (Basic Information) at the top center.",
+        "Content": "The content displays various details about a movie, including its name, foreign title, genre, version, language, duration, source, and release date.",
+        "Footer": "",
+        "SideBar": "",
+        "Function": "This page provides detailed information about a specific movie, likely for users to view and possibly share or bookmark the movie details."
+      }
+    },
+    "finished": false
+  },
+  {
+    "page_id": 63,
+    "image_path": "tasks\\task_2025-04-22_16-05-16\\utg_data\\13.png",
+    "package": "com.sankuai.meituan",
+    "activity": "com.meituan.android.movie.movie.MYMeituanMovieDetailActivity",
+    "fragment": "Fragment(id:0x7f0a0059 name:AppCategorySelectFragment)",
+    "node_count": 48,
+    "summary": {
+      "type": "Content Display",
+      "description": {
+        "Header": "The header contains the movie title '向阳·花' (We Girls) and its subtitle 'We Girls'. There is also a back arrow icon on the left and a share icon on the right.",
+        "Content": "The content section displays details about the movie, including the poster image, release date, rating, and a brief introduction. It also lists cast members with their roles.",
+        "Footer": "The footer contains a red button labeled '特惠购票' (Special Ticket Purchase) at the bottom.",
+        "SideBar": "There is no sidebar visible in the provided screenshot.",
+        "Function": "This page provides detailed information about a movie, including its title, release date, rating, cast, and a brief introduction. Users can also purchase tickets through the special ticket purchase button."
+      }
+    },
+    "finished": false
+  },
+  {
+    "page_id": 64,
+    "image_path": "tasks\\task_2025-04-22_16-05-16\\utg_data\\2.png",
+    "package": "com.sankuai.meituan",
+    "activity": "com.sankuai.titans.adapter.mtapp.KNBWebViewActivity",
+    "fragment": "Fragment(id:0x7f0a0059 name:AppCategorySelectFragment)",
+    "node_count": 18,
+    "summary": {
+      "type": "Content Display",
+      "description": {
+        "Header": "The header contains the title '《向阳·花》推荐视频' (Toward the Sun · Flower Recommended Videos) at the center.",
+        "Content": "The content section displays a list of video thumbnails with titles and durations. Each thumbnail has a play button indicating that these are clickable video links.",
+        "Footer": "",
+        "SideBar": "",
+        "Function": "This page displays recommended videos related to the movie 向阳·花 (Toward the Sun · Flower). Users can click on the video thumbnails to watch the full videos."
+      }
+    },
+    "finished": false
+  },
+  {
+    "page_id": 65,
+    "image_path": "tasks\\task_2025-04-22_16-05-16\\utg_data\\9.png",
+    "package": "com.sankuai.meituan",
+    "activity": "com.meituan.android.movie.movie.MYMeituanMovieDetailActivity",
+    "fragment": "Fragment(id:0x7f0a0059 name:AppCategorySelectFragment)",
+    "node_count": 48,
+    "summary": {
+      "type": "Content Display",
+      "description": {
+        "Header": "The header contains the movie title '向阳·花' (We Girls) and a brief description of the movie. There is also a back arrow icon on the left and a share icon on the right.",
+        "Content": "The content section displays details about the movie, including its rating, number of viewers who want to watch it, and the number of viewers who have watched it. It also includes a synopsis and cast information.",
+        "Footer": "The footer contains a red button labeled '特惠购票' (Special Ticket Purchase) at the bottom.",
+        "SideBar": "There is no sidebar visible in the image.",
+        "Function": "This page provides detailed information about a movie, including its title, rating, synopsis, cast, and ticket purchase options."
+      }
+    },
+    "finished": false
+  },
+  {
+    "page_id": 14,
+    "image_path": "tasks\\task_2025-04-22_16-05-16\\utg_data\\14.png",
+    "package": "com.sankuai.meituan",
+    "activity": "com.sankuai.android.share.ShareActivity",
+    "fragment": "Fragment(id:0x7f0a0059 name:AppCategorySelectFragment)",
+    "node_count": 8,
+    "summary": {
+      "type": "Content Display",
+      "description": {
+        "Header": "The header contains the movie title '向阳·花' (We Girls) and a back arrow icon on the left, along with a share icon on the right.",
+        "Content": "The content section displays details about the movie 'We Girls', including its release date, rating, and a brief introduction. It also shows cast members with their headshots.",
+        "Footer": "",
+        "SideBar": "",
+        "Function": "This page provides detailed information about a specific movie, including its title, release date, rating, and cast. It allows users to interact with the content by liking, watching, or sharing the movie."
+      }
+    },
+    "finished": false
+  },
+  {
+    "page_id": 67,
+    "image_path": "tasks\\task_2025-04-22_16-05-16\\utg_data\\14.png",
+    "package": "com.sankuai.meituan",
+    "activity": "com.meituan.android.movie.movie.MYMeituanMovieDetailActivity",
+    "fragment": "Fragment(id:0x7f0a0059 name:AppCategorySelectFragment)",
+    "node_count": 48,
+    "summary": {
+      "type": "Content Display",
+      "description": {
+        "Header": "The header contains the movie title '向阳·花' (We Girls) and a brief description of the movie. There is also a play button icon on the left side.",
+        "Content": "The content section displays details about the movie, including its rating, number of viewers who want to watch it, and the number of viewers who have watched it. It also includes a synopsis and cast information.",
+        "Footer": "The footer contains a red button labeled '特惠购票' (Special Ticket Purchase) at the bottom.",
+        "SideBar": "There is no sidebar visible in the image.",
+        "Function": "This page provides detailed information about a movie, including its title, rating, viewer statistics, synopsis, and cast. Users can also purchase tickets through the special ticket purchase button."
+      }
+    },
+    "finished": false
+  },
+  {
+    "page_id": 68,
+    "image_path": "tasks\\task_2025-04-22_16-05-16\\utg_data\\2.png",
+    "package": "com.sankuai.meituan",
+    "activity": "com.maoyan.android.presentation.actor.MYActorDetailActivity",
+    "fragment": "Fragment(id:0x7f0a0059 name:AppCategorySelectFragment)",
+    "node_count": 26,
+    "summary": {
+      "type": "Personal Profile",
+      "description": {
+        "Header": "The header contains a back arrow on the left and a share icon on the right.",
+        "Content": "The content displays a profile summary including the name '赵丽颖' (Zhao Liying), her career achievements such as total box office earnings, main works, and total fans.",
+        "Footer": "",
+        "SideBar": "",
+        "Function": "This page provides a detailed personal profile of Zhao Liying, showcasing her career highlights, achievements, and fan statistics."
+      }
+    },
+    "finished": false
+  },
+  {
+    "page_id": 69,
+    "image_path": "tasks\\task_2025-04-22_16-05-16\\utg_data\\7.png",
+    "package": "com.sankuai.meituan",
+    "activity": "com.meituan.android.movie.movie.MYMeituanMovieDetailActivity",
+    "fragment": "Fragment(id:0x7f0a0059 name:AppCategorySelectFragment)",
+    "node_count": 48,
+    "summary": {
+      "type": "Content Display",
+      "description": {
+        "Header": "The header contains the movie title '向阳·花' (We Girls) and a brief description of the movie. There is also a back arrow icon on the left and a share icon on the right.",
+        "Content": "The content section displays details about the movie, including its rating, number of viewers who want to watch it, and the number of viewers who have watched it. It also includes a synopsis and cast information.",
+        "Footer": "The footer contains a red button labeled '特惠购票' (Special Ticket Purchase) at the bottom.",
+        "SideBar": "There is no sidebar visible in the image.",
+        "Function": "This page provides detailed information about a specific movie, including its title, rating, viewer statistics, synopsis, and cast. Users can also purchase tickets through the special ticket purchase button."
+      }
+    },
+    "finished": false
+  },
+  {
+    "page_id": 70,
+    "image_path": "tasks\\task_2025-04-22_16-05-16\\utg_data\\2.png",
+    "package": "com.sankuai.meituan",
+    "activity": "com.maoyan.android.presentation.actor.MYActorDetailActivity",
+    "fragment": "Fragment(id:0x7f0a0059 name:AppCategorySelectFragment)",
+    "node_count": 26,
+    "summary": {
+      "type": "Personal Profile",
+      "description": {
+        "Header": "The header contains the user's name (兰西雅, Xiya Lan) and a follow button (+关注) on the right side.",
+        "Content": "The content section displays personal information about the user, including their profession (演员 | 歌手 - Actor | Singer), birthdate (生日: 12-22), and a biography describing their career highlights and achievements.",
+        "Footer": "",
+        "SideBar": "",
+        "Function": "This page provides a detailed profile of a user, likely an actor or singer, showcasing their career statistics and personal details."
+      }
+    },
+    "finished": false
+  },
+  {
+    "page_id": 71,
+    "image_path": "tasks\\task_2025-04-22_16-05-16\\utg_data\\7.png",
+    "package": "com.sankuai.meituan",
+    "activity": "com.meituan.android.movie.movie.MYMeituanMovieDetailActivity",
+    "fragment": "Fragment(id:0x7f0a0059 name:AppCategorySelectFragment)",
+    "node_count": 48,
+    "summary": {
+      "type": "Content Display",
+      "description": {
+        "Header": "The header contains the movie title '向阳·花' (We Girls) and a brief description of the movie. There is also a back arrow icon on the left and a share icon on the right.",
+        "Content": "The content section displays details about the movie, including its rating, number of viewers who want to watch it, and the number of viewers who have watched it. It also includes a synopsis and cast information.",
+        "Footer": "The footer contains a red button labeled '特惠购票' (Special Ticket Purchase) at the bottom.",
+        "SideBar": "There is no sidebar visible in the image.",
+        "Function": "This page provides detailed information about a specific movie, including its rating, viewer statistics, synopsis, and cast. Users can also purchase tickets through the special ticket purchase button."
+      }
+    },
+    "finished": false
+  },
+  {
+    "page_id": 72,
+    "image_path": "tasks\\task_2025-04-22_16-05-16\\utg_data\\2.png",
+    "package": "com.sankuai.meituan",
+    "activity": "com.meituan.android.movie.mrnservice.MovieMrnTrailerActivity",
+    "fragment": "Fragment(id:0x7f0a0059 name:AppCategorySelectFragment)",
+    "node_count": 19,
+    "summary": {
+      "type": "Content Display",
+      "description": {
+        "Header": "The header contains a back arrow on the left and a title '向阳·花' in the center.",
+        "Content": "The content section displays a movie poster, the movie title, its rating, and release date. Below that, there is a section titled '全部视频 20部' showing video thumbnails with titles and durations.",
+        "Footer": "There is no footer visible in the provided screenshot.",
+        "SideBar": "There is no sidebar visible in the provided screenshot.",
+        "Function": "This page is designed to display detailed information about a movie, including its poster, title, rating, and release date. It also provides a section for viewing videos related to the movie and allows users to leave comments."
+      }
+    },
+    "finished": false
+  },
+  {
+    "page_id": 73,
+    "image_path": "tasks\\task_2025-04-22_16-05-16\\utg_data\\12.png",
+    "package": "com.sankuai.meituan",
+    "activity": "com.meituan.android.movie.movie.MYMeituanMovieDetailActivity",
+    "fragment": "Fragment(id:0x7f0a0059 name:AppCategorySelectFragment)",
+    "node_count": 48,
+    "summary": {
+      "type": "Content Display",
+      "description": {
+        "Header": "The header contains the movie title '向阳·花' (We Girls) and its subtitle 'We Girls'. There is also a back arrow icon on the left and a share icon on the right.",
+        "Content": "The content section displays details about the movie, including the poster image, release date, rating, and a brief introduction. It also lists cast members with their roles.",
+        "Footer": "The footer contains a red button labeled '特惠购票' (Special Ticket Purchase) at the bottom.",
+        "SideBar": "There is no sidebar visible in the provided screenshot.",
+        "Function": "This page provides detailed information about a movie, including its title, release date, rating, cast, and a brief introduction. Users can also purchase tickets through the special ticket purchase button."
+      }
+    },
+    "finished": false
+  },
+  {
+    "page_id": 74,
+    "image_path": "tasks\\task_2025-04-22_16-05-16\\utg_data\\2.png",
+    "package": "com.sankuai.meituan",
+    "activity": "com.meituan.android.movie.movie.MYMeituanMovieDetailActivity",
+    "fragment": "Fragment(id:0x7f0a0059 name:AppCategorySelectFragment)",
+    "node_count": 36,
+    "summary": {
+      "type": "Content Display",
+      "description": {
+        "Header": "The header contains the movie title '向阳·花' (We Girls) and a subtitle 'We Girls'. There is also a back arrow icon on the left and a share icon on the right.",
+        "Content": "The content section displays details about the movie, including its rating (9.3), number of people who want to watch it (176,087), and the number of people who have watched it (4,928,908). It also includes a brief introduction and cast information.",
+        "Footer": "The footer contains a red button labeled '特惠购票' (Special Ticket Purchase) at the bottom.",
+        "SideBar": "There is no sidebar visible in the image.",
+        "Function": "This page provides detailed information about a movie, including its title, rating, viewer statistics, a brief introduction, and cast information. Users can also purchase tickets through the special ticket purchase button."
+      }
+    },
+    "finished": false
+  },
+  {
+    "page_id": 75,
+    "image_path": "tasks\\task_2025-04-22_16-05-16\\utg_data\\2.png",
+    "package": "com.sankuai.meituan",
+    "activity": "com.meituan.android.movie.movie.MYMeituanMovieDetailActivity",
+    "fragment": "Fragment(id:0x7f0a0059 name:AppCategorySelectFragment)",
+    "node_count": 33,
+    "summary": {
+      "type": "Content Display",
+      "description": {
+        "Header": "The header contains the movie title '向阳·花' (We Girls) and its subtitle 'We Girls'. There is also a back arrow icon on the left and a share icon on the right.",
+        "Content": "The content section displays details about the movie, including the release date, rating, number of people who want to watch, and the number of people who have watched it. It also includes a brief introduction and cast information.",
+        "Footer": "The footer contains a red button labeled '特惠购票' (Special Ticket Purchase) at the bottom.",
+        "SideBar": "There is no sidebar visible in the image.",
+        "Function": "This page provides detailed information about a movie, including its title, release date, rating, and cast. Users can also purchase tickets through the special ticket purchase button."
+      }
+    },
+    "finished": false
+  },
+  {
+    "page_id": 76,
+    "image_path": "tasks\\task_2025-04-22_16-05-16\\utg_data\\2.png",
+    "package": "com.sankuai.meituan",
+    "activity": "com.meituan.android.movie.movie.MYMeituanMovieDetailActivity",
+    "fragment": "Fragment(id:0x7f0a0059 name:AppCategorySelectFragment)",
+    "node_count": 33,
+    "summary": {
+      "type": "Content Display",
+      "description": {
+        "Header": "The header contains the movie title '向阳·花' (We Girls) and its subtitle 'We Girls'. There is also a back arrow icon on the left and a share icon on the right.",
+        "Content": "The content section displays details about the movie, including the poster image, release date, rating, and a brief introduction. It also includes a section for cast members and a button for purchasing tickets.",
+        "Footer": "The footer is not visible in the provided screenshot.",
+        "SideBar": "There is no sidebar present in the provided screenshot.",
+        "Function": "This page provides detailed information about a movie, including its title, release date, rating, and a brief introduction. It also allows users to purchase tickets."
+      }
+    },
+    "finished": false
+  },
+  {
+    "page_id": 77,
+    "image_path": "tasks\\task_2025-04-22_16-05-16\\utg_data\\2.png",
+    "package": "com.sankuai.meituan",
+    "activity": "com.meituan.android.movie.movie.MYMeituanMovieDetailActivity",
+    "fragment": "Fragment(id:0x7f0a0059 name:AppCategorySelectFragment)",
+    "node_count": 39,
+    "summary": {
+      "type": "Content Display",
+      "description": {
+        "Header": "The header contains the movie title \"向阳·花\" (We Girls) and a brief description of the movie. There is also a back arrow icon on the left and a share icon on the right.",
+        "Content": "The content section displays details about the movie, including its release date, rating, and cast. It includes a poster image, a brief synopsis, and a list of actors with their roles.",
+        "Footer": "The footer contains a red button labeled \"特惠购票\" (Special Ticket Purchase) at the bottom.",
+        "SideBar": "There is no sidebar visible in the provided screenshot.",
+        "Function": "This page provides detailed information about a specific movie, including its title, release date, rating, synopsis, and cast. Users can also purchase tickets through the special ticket purchase button."
+      }
+    },
+    "finished": false
+  },
+  {
+    "page_id": 78,
+    "image_path": "tasks\\task_2025-04-22_16-05-16\\utg_data\\2.png",
+    "package": "com.sankuai.meituan",
+    "activity": "com.meituan.android.movie.movie.MYMeituanMovieDetailActivity",
+    "fragment": "Fragment(id:0x7f0a0059 name:AppCategorySelectFragment)",
+    "node_count": 39,
+    "summary": {
+      "type": "Content Display",
+      "description": {
+        "Header": "The header contains the movie title '向阳·花' (We Girls) and a brief description of the movie. There is also a back arrow icon on the left and a share icon on the right.",
+        "Content": "The content section displays details about the movie, including its rating, number of people who want to watch it, and the number of people who have watched it. It also includes a summary of the movie's plot and cast information.",
+        "Footer": "The footer contains a red button labeled '特惠购票' (Special Ticket Purchase) at the bottom.",
+        "SideBar": "There is no sidebar present in this image.",
+        "Function": "This page provides detailed information about a specific movie, including its title, release date, rating, and cast. Users can also view more details by expanding the summary section."
+      }
+    },
+    "finished": false
+  },
+  {
+    "page_id": 79,
+    "image_path": "tasks\\task_2025-04-22_16-05-16\\utg_data\\2.png",
+    "package": "com.sankuai.meituan",
+    "activity": "com.meituan.android.movie.movie.MYMeituanMovieDetailActivity",
+    "fragment": "Fragment(id:0x7f0a0059 name:AppCategorySelectFragment)",
+    "node_count": 48,
+    "summary": {
+      "type": "Content Display",
+      "description": {
+        "Header": "The header contains the movie title '向阳·花' (We Girls) and a brief description of the movie. There is also a back arrow icon on the left and a share icon on the right.",
+        "Content": "The content section displays details about the movie, including its rating, number of viewers who want to watch it, and the number of viewers who have watched it. It also includes a synopsis and cast information.",
+        "Footer": "",
+        "SideBar": "",
+        "Function": "This page provides detailed information about a specific movie, including its title, rating, synopsis, cast, and viewer statistics. It allows users to view more details by expanding sections like the synopsis and cast."
+      }
+    },
+    "finished": false
+  },
+  {
+    "page_id": 80,
+    "image_path": "tasks\\task_2025-04-22_16-05-16\\utg_data\\2.png",
+    "package": "com.sankuai.meituan",
+    "activity": "com.maoyan.android.presentation.actor.MYActorDetailActivity",
+    "fragment": "Fragment(id:0x7f0a0059 name:AppCategorySelectFragment)",
+    "node_count": 26,
+    "summary": {
+      "type": "Personal Profile",
+      "description": {
+        "Header": "The header contains a back arrow on the left and a share icon on the right.",
+        "Content": "The content section displays personal information about Zhao Liying, including her name, birth date, career details, and achievements.",
+        "Footer": "",
+        "SideBar": "",
+        "Function": "This page provides detailed personal information about Zhao Liying, likely from a celebrity-focused app or platform."
+      }
+    },
+    "finished": false
+  },
+  {
+    "page_id": 81,
+    "image_path": "tasks\\task_2025-04-22_16-05-16\\utg_data\\7.png",
+    "package": "com.sankuai.meituan",
+    "activity": "com.meituan.android.movie.movie.MYMeituanMovieDetailActivity",
+    "fragment": "Fragment(id:0x7f0a0059 name:AppCategorySelectFragment)",
+    "node_count": 48,
+    "summary": {
+      "type": "Content Display",
+      "description": {
+        "Header": "The header contains the movie title '向阳·花' (We Girls) and a brief description of the movie. There is also a back arrow icon on the left and a share icon on the right.",
+        "Content": "The content section displays details about the movie, including its rating, number of viewers who want to watch it, and the number of viewers who have watched it. It also includes a synopsis and cast information.",
+        "Footer": "The footer contains a red button labeled '特惠购票' (Special Ticket Purchase) at the bottom.",
+        "SideBar": "There is no sidebar visible in the image.",
+        "Function": "This page provides detailed information about a specific movie, including its rating, viewer statistics, synopsis, and cast. Users can also purchase tickets through the special ticket purchase button."
+      }
+    },
+    "finished": false
+  },
+  {
+    "page_id": 15,
+    "image_path": "tasks\\task_2025-04-22_16-05-16\\utg_data\\15.png",
+    "package": "com.sankuai.meituan",
+    "activity": "com.sankuai.titans.adapter.mtapp.KNBWebViewActivity",
+    "fragment": "Fragment(id:0x7f0a0059 name:AppCategorySelectFragment)",
+    "node_count": 39,
+    "summary": {
+      "type": "Content Display",
+      "description": {
+        "Header": "The header contains the title '《向阳·花》推荐视频' (The recommended videos of 向阳·花) at the center, with a back arrow on the left.",
+        "Content": "The content section displays a list of video thumbnails and titles under two categories: 预告片 (Trailers) and 官方视频 (Official Videos). Each item includes a thumbnail image, a play button, and a brief description.",
+        "Footer": "",
+        "SideBar": "",
+        "Function": "This page showcases recommended videos related to the movie 向阳·花. Users can view different types of videos such as trailers and official videos by selecting tabs."
+      }
+    },
+    "finished": false
+  },
+  {
+    "page_id": 83,
+    "image_path": "tasks\\task_2025-04-22_16-05-16\\utg_data\\15.png",
+    "package": "com.sankuai.meituan",
+    "activity": "com.meituan.android.movie.movie.MYMeituanMovieDetailActivity",
+    "fragment": "Fragment(id:0x7f0a0059 name:AppCategorySelectFragment)",
+    "node_count": 48,
+    "summary": {
+      "type": "Content Display",
+      "description": {
+        "Header": "The header contains the movie title '向阳·花' (We Girls) and a brief description of the movie. There is also a back arrow icon on the left and a share icon on the right.",
+        "Content": "The content section displays details about the movie, including its rating, number of viewers who want to watch it, and the number of viewers who have watched it. It also includes a synopsis and cast information.",
+        "Footer": "The footer contains a red button labeled '特惠购票' (Special Ticket Purchase) at the bottom.",
+        "SideBar": "There is no sidebar visible in the image.",
+        "Function": "This page provides detailed information about a movie, including its title, rating, viewer statistics, synopsis, and cast. Users can also purchase tickets through the special ticket purchase button."
+      }
+    },
+    "finished": false
+  },
+  {
+    "page_id": 84,
+    "image_path": "tasks\\task_2025-04-22_16-05-16\\utg_data\\2.png",
+    "package": "com.sankuai.meituan",
+    "activity": "com.sankuai.titans.adapter.mtapp.KNBWebViewActivity",
+    "fragment": "Fragment(id:0x7f0a0059 name:AppCategorySelectFragment)",
+    "node_count": 18,
+    "summary": {
+      "type": "Content Display",
+      "description": {
+        "Header": "The header contains the title '《向阳·花》推荐视频' (The recommended videos of 向阳·花) at the center. There is a back arrow on the left.",
+        "Content": "The content section displays a list of video thumbnails and titles related to the movie 向阳·花. Each item includes a thumbnail image, a video duration, and a brief description.",
+        "Footer": "",
+        "SideBar": "",
+        "Function": "This page displays recommended videos for the movie 向阳·花, allowing users to view different types of videos such as trailers, official videos, and special features."
+      }
+    },
+    "finished": false
+  },
+  {
+    "page_id": 85,
+    "image_path": "tasks\\task_2025-04-22_16-05-16\\utg_data\\9.png",
+    "package": "com.sankuai.meituan",
+    "activity": "com.meituan.android.movie.movie.MYMeituanMovieDetailActivity",
+    "fragment": "Fragment(id:0x7f0a0059 name:AppCategorySelectFragment)",
+    "node_count": 48,
+    "summary": {
+      "type": "Content Display",
+      "description": {
+        "Header": "The header contains the movie title '向阳·花' (We Girls) and a brief description of the movie. There is also a back arrow icon on the left and a share icon on the right.",
+        "Content": "The content section displays details about the movie, including its rating, number of viewers who want to watch it, and the number of viewers who have watched it. It also includes a synopsis and cast information.",
+        "Footer": "The footer contains a red button labeled '特惠购票' (Special Ticket Purchase) at the bottom.",
+        "SideBar": "There is no sidebar visible in the image.",
+        "Function": "This page provides detailed information about a specific movie, including its title, rating, viewer statistics, synopsis, and cast. Users can also purchase tickets through the special ticket purchase button."
+      }
+    },
+    "finished": false
+  },
+  {
+    "page_id": 86,
+    "image_path": "tasks\\task_2025-04-22_16-05-16\\utg_data\\2.png",
+    "package": "com.sankuai.meituan",
+    "activity": "com.maoyan.android.presentation.actor.MYActorDetailActivity",
+    "fragment": "Fragment(id:0x7f0a0059 name:AppCategorySelectFragment)",
+    "node_count": 26,
+    "summary": {
+      "type": "Personal Profile",
+      "description": {
+        "Header": "The header contains a back arrow on the left and a share icon on the right.",
+        "Content": "The content section displays personal profile details including name, birthdate, profession, and a biography.",
+        "Footer": "",
+        "SideBar": "",
+        "Function": "This page provides detailed information about a person's profile, including their name, profession, birthdate, and a brief biography."
+      }
+    },
+    "finished": false
+  },
+  {
+    "page_id": 87,
+    "image_path": "tasks\\task_2025-04-22_16-05-16\\utg_data\\7.png",
+    "package": "com.sankuai.meituan",
+    "activity": "com.meituan.android.movie.movie.MYMeituanMovieDetailActivity",
+    "fragment": "Fragment(id:0x7f0a0059 name:AppCategorySelectFragment)",
+    "node_count": 48,
+    "summary": {
+      "type": "Content Display",
+      "description": {
+        "Header": "The header contains the movie title '向阳·花' (We Girls) and a brief description of the movie. There is also a back arrow icon on the left and a share icon on the right.",
+        "Content": "The content section displays details about the movie, including its rating, number of viewers who want to watch it, and the number of viewers who have watched it. It also includes a synopsis and cast information.",
+        "Footer": "The footer contains a red button labeled '特惠购票' (Special Ticket Purchase) at the bottom.",
+        "SideBar": "There is no sidebar visible in the image.",
+        "Function": "This page provides detailed information about a movie, including its title, rating, viewer statistics, synopsis, and cast. Users can also purchase tickets through the special ticket purchase button."
+      }
+    },
+    "finished": false
+  },
+  {
+    "page_id": 88,
+    "image_path": "tasks\\task_2025-04-22_16-05-16\\utg_data\\2.png",
+    "package": "com.sankuai.meituan",
+    "activity": "com.meituan.android.movie.movie.MYMeituanMovieDetailActivity",
+    "fragment": "Fragment(id:0x7f0a0059 name:AppCategorySelectFragment)",
+    "node_count": 43,
+    "summary": {
+      "type": "Content Display",
+      "description": {
+        "Header": "The header contains the movie title '向阳·花' (We Girls) and a brief description of the movie. There is also a back arrow icon on the left and a share icon on the right.",
+        "Content": "The content section displays details about the movie, including its rating, number of viewers who want to watch it, and the number of viewers who have watched it. It also includes a synopsis and cast information.",
+        "Footer": "The footer contains a red button labeled '特惠购票' (Special Ticket Purchase) at the bottom.",
+        "SideBar": "There is no sidebar visible in the image.",
+        "Function": "This page provides detailed information about a movie, including its title, rating, viewer statistics, synopsis, and cast. Users can also purchase tickets through the special ticket purchase button."
+      }
+    },
+    "finished": false
+  },
+  {
+    "page_id": 89,
+    "image_path": "tasks\\task_2025-04-22_16-05-16\\utg_data\\2.png",
+    "package": "com.sankuai.meituan",
+    "activity": "com.meituan.android.mrn.container.MRNBaseActivity",
+    "fragment": "Fragment(id:0x7f0a0059 name:AppCategorySelectFragment)",
+    "node_count": 1,
+    "summary": {
+      "type": "Content Display",
+      "description": {
+        "Header": "The header contains a close button (X) on the left and a page number indicator (1/22) in the center.",
+        "Content": "The content displays a poster image featuring five women running together with a colorful background. The text on the poster includes Chinese characters and the English phrase 'WE GIRLS'.",
+        "Footer": "",
+        "SideBar": "",
+        "Function": "This page appears to be displaying a single image from a series, likely part of a gallery or a collection of images related to the movie 'We Girls' based on the text and visual elements."
+      }
+    },
+    "finished": false
+  },
+  {
+    "page_id": 90,
+    "image_path": "tasks\\task_2025-04-22_16-05-16\\utg_data\\10.png",
+    "package": "com.sankuai.meituan",
+    "activity": "com.meituan.android.movie.movie.MYMeituanMovieDetailActivity",
+    "fragment": "Fragment(id:0x7f0a0059 name:AppCategorySelectFragment)",
+    "node_count": 43,
+    "summary": {
+      "type": "Content Display",
+      "description": {
+        "Header": "The header contains the movie title '向阳·花' (We Girls) and its subtitle 'We Girls'. There is also a back arrow icon on the left and a share icon on the right.",
+        "Content": "The content section displays details about the movie, including the poster image, release date, rating, and number of viewers. It also includes a brief introduction and cast information.",
+        "Footer": "The footer is empty.",
+        "SideBar": "The sidebar is empty.",
+        "Function": "This page provides detailed information about a movie, including its title, release date, rating, viewer count, synopsis, and cast. Users can also view videos and photos related to the movie."
+      }
+    },
+    "finished": false
+  },
+  {
+    "page_id": 91,
+    "image_path": "tasks\\task_2025-04-22_16-05-16\\utg_data\\2.png",
+    "package": "com.sankuai.meituan",
+    "activity": "com.meituan.android.movie.tradebase.activity.MovieCinemaListActivity",
+    "fragment": "Fragment(id:0x7f0a0059 name:AppCategorySelectFragment)",
+    "node_count": 18,
+    "summary": {
+      "type": "Searching Result",
+      "description": {
+        "Header": "The header contains the movie title 向阳·花 with a rating of 9.3 stars. There are navigation options for different dates (today, tomorrow, the day after tomorrow, and Friday).",
+        "Content": "The content displays a list of cinema locations with their names, addresses, distances, prices, and available showtimes.",
+        "Footer": "",
+        "SideBar": "",
+        "Function": "This page shows the search results for movie theaters based on the selected movie and date. Users can view details about each theater, including location, distance, price, and available showtimes."
+      }
+    },
+    "finished": false
+  },
+  {
+    "page_id": 92,
+    "image_path": "tasks\\task_2025-04-22_16-05-16\\utg_data\\8.png",
+    "package": "com.sankuai.meituan",
+    "activity": "com.meituan.android.movie.movie.MYMeituanMovieDetailActivity",
+    "fragment": "Fragment(id:0x7f0a0059 name:AppCategorySelectFragment)",
+    "node_count": 43,
+    "summary": {
+      "type": "Content Display",
+      "description": {
+        "Header": "The header contains the movie title '向阳·花' (We Girls) and a brief description of the movie. There is also a back arrow icon on the left and a share icon on the right.",
+        "Content": "The content section displays details about the movie, including its rating, number of viewers who want to watch it, and the number of viewers who have watched it. It also includes a brief introduction and cast information.",
+        "Footer": "The footer contains a red button labeled '特惠购票' (Special Ticket Purchase) at the bottom.",
+        "SideBar": "There is no sidebar visible in the image.",
+        "Function": "This page provides detailed information about a specific movie, including its rating, viewer statistics, a brief introduction, and cast information. Users can also purchase tickets through the special ticket purchase button."
+      }
+    },
+    "finished": false
+  },
+  {
+    "page_id": 93,
+    "image_path": "tasks\\task_2025-04-22_16-05-16\\utg_data\\2.png",
+    "package": "com.sankuai.meituan",
+    "activity": "com.meituan.android.movie.movie.MYMeituanMovieDetailActivity",
+    "fragment": "Fragment(id:0x7f0a0059 name:AppCategorySelectFragment)",
+    "node_count": 43,
+    "summary": {
+      "type": "Content Display",
+      "description": {
+        "Header": "The header contains the movie title '向阳·花' (We Girls) and a brief description of the movie. There is also a back arrow icon on the left and a share icon on the right.",
+        "Content": "The content section displays details about the movie, including its rating, number of viewers who want to watch it, and the number of viewers who have watched it. It also includes a synopsis and cast information.",
+        "Footer": "The footer contains a red button labeled '特惠购票' (Special Ticket Purchase) at the bottom.",
+        "SideBar": "There is no sidebar visible in the image.",
+        "Function": "This page provides detailed information about a movie, including its title, rating, synopsis, cast, and ticket purchase options."
+      }
+    },
+    "finished": false
+  },
+  {
+    "page_id": 94,
+    "image_path": "tasks\\task_2025-04-22_16-05-16\\utg_data\\2.png",
+    "package": "com.sankuai.meituan",
+    "activity": "com.meituan.android.mrn.container.MRNBaseActivity",
+    "fragment": "Fragment(id:0x7f0a0059 name:AppCategorySelectFragment)",
+    "node_count": 1,
+    "summary": {
+      "type": "Advertisement",
+      "description": {
+        "Header": "",
+        "Content": "It displays an advertisement image featuring five women running together with a vibrant background. The text 'WE GIRLS' is prominently displayed at the top.",
+        "Footer": "",
+        "SideBar": "",
+        "Function": "The page is likely part of a larger application where users can view advertisements related to movies, events, or promotions. This specific page showcases an advertisement for a movie titled 'WE GIRLS'."
+      }
+    },
+    "finished": false
+  },
+  {
+    "page_id": 95,
+    "image_path": "tasks\\task_2025-04-22_16-05-16\\utg_data\\10.png",
+    "package": "com.sankuai.meituan",
+    "activity": "com.meituan.android.movie.movie.MYMeituanMovieDetailActivity",
+    "fragment": "Fragment(id:0x7f0a0059 name:AppCategorySelectFragment)",
+    "node_count": 43,
+    "summary": {
+      "type": "Content Display",
+      "description": {
+        "Header": "The header contains the movie title '向阳·花' (We Girls) and a brief description of the movie. There is also a back arrow icon on the left and a share icon on the right.",
+        "Content": "The content section displays details about the movie, including its rating, number of viewers who want to watch it, and the number of viewers who have watched it. It also includes a synopsis and cast information.",
+        "Footer": "The footer contains a red button labeled '特惠购票' (Special Ticket Purchase) at the bottom.",
+        "SideBar": "There is no sidebar visible in the image.",
+        "Function": "This page provides detailed information about a movie, including its title, rating, synopsis, cast, and ticket purchase options."
+      }
+    },
+    "finished": false
+  },
+  {
+    "page_id": 96,
+    "image_path": "tasks\\task_2025-04-22_16-05-16\\utg_data\\2.png",
+    "package": "com.sankuai.meituan",
+    "activity": "com.meituan.android.movie.movie.MYMeituanMovieDetailActivity",
+    "fragment": "Fragment(id:0x7f0a0059 name:AppCategorySelectFragment)",
+    "node_count": 48,
+    "summary": {
+      "type": "Content Display",
+      "description": {
+        "Header": "The header contains the movie title '向阳·花' (We Girls) and a brief description below it. There is also a back arrow icon on the left and a share icon on the right.",
+        "Content": "The content section displays details about the movie, including its rating, number of viewers who want to watch it, and the number of viewers who have watched it. It also includes a synopsis and cast information.",
+        "Footer": "The footer contains a red button labeled '特惠购票' (Special Ticket Purchase) at the bottom.",
+        "SideBar": "There is no sidebar visible in the image.",
+        "Function": "This page provides detailed information about a movie, including its title, rating, viewer statistics, synopsis, and cast. Users can also purchase tickets through the special ticket purchase button."
+      }
+    },
+    "finished": false
+  },
+  {
+    "page_id": 97,
+    "image_path": "tasks\\task_2025-04-22_16-05-16\\utg_data\\2.png",
+    "package": "com.sankuai.meituan",
+    "activity": "com.meituan.android.mrn.container.MRNBaseActivity",
+    "fragment": "Fragment(id:0x7f0a0059 name:AppCategorySelectFragment)",
+    "node_count": 3,
+    "summary": {
+      "type": "Content Display",
+      "description": {
+        "Header": "The header contains a back arrow icon on the left and a download/upload icon on the right. The number '1/4' indicates the current image position.",
+        "Content": "The content section displays a single image of a person wearing a patterned outfit. There is no additional information or module displayed.",
+        "Footer": "",
+        "SideBar": "",
+        "Function": "This page is designed to display a single image, likely from a gallery or media viewer. The user can navigate through multiple images, indicated by the '1/4' text."
+      }
+    },
+    "finished": false
+  },
+  {
+    "page_id": 98,
+    "image_path": "tasks\\task_2025-04-22_16-05-16\\utg_data\\10.png",
+    "package": "com.sankuai.meituan",
+    "activity": "com.meituan.android.movie.movie.MYMeituanMovieDetailActivity",
+    "fragment": "Fragment(id:0x7f0a0059 name:AppCategorySelectFragment)",
+    "node_count": 48,
+    "summary": {
+      "type": "Content Display",
+      "description": {
+        "Header": "The header contains the movie title '向阳·花' (We Girls) and its subtitle 'We Girls'. There is also a back arrow icon on the left and a share icon on the right.",
+        "Content": "The content section displays details about the movie, including the poster image, release date, genre, and rating. It also includes a summary of the movie's plot and cast information.",
+        "Footer": "The footer contains a red button labeled '特惠购票' (Special Ticket Purchase) at the bottom.",
+        "SideBar": "There is no sidebar visible in the provided screenshot.",
+        "Function": "This page provides detailed information about a movie, including its title, release date, genre, rating, plot summary, and cast. Users can also purchase tickets through the special ticket purchase button."
+      }
+    },
+    "finished": false
+  },
+  {
+    "page_id": 99,
+    "image_path": "tasks\\task_2025-04-22_16-05-16\\utg_data\\2.png",
+    "package": "com.sankuai.meituan",
+    "activity": "com.meituan.android.mrn.container.MRNBaseActivity",
+    "fragment": "Fragment(id:0x7f0a0059 name:AppCategorySelectFragment)",
+    "node_count": 3,
+    "summary": {
+      "type": "Content Display",
+      "description": {
+        "Header": "The header contains a back arrow icon on the left and a download/upload icon on the right. The number '1/4' indicates the current image position.",
+        "Content": "The content displays a single image of a person wearing a patterned sweater. There is no additional information or modules visible in this section.",
+        "Footer": "",
+        "SideBar": "",
+        "Function": "This page is designed to display a single image, likely from a gallery or media viewer. The user can navigate through multiple images, indicated by the '1/4' text."
+      }
+    },
+    "finished": false
+  }
+]

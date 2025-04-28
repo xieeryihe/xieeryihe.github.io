@@ -1,0 +1,146 @@
+[
+  {
+    "node_id": 0,
+    "class": "View",
+    "resource_id": "com.sankuai.meituan:id/xz4",
+    "bounds": [
+      0,
+      96,
+      1080,
+      2296
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 1,
+    "class": "RelativeLayout",
+    "resource_id": [
+      "com.sankuai.meituan:id/share_unify_title_layout",
+      "com.sankuai.meituan:id/share_title",
+      "com.sankuai.meituan:id/share_panel_close"
+    ],
+    "text": [
+      "分享至"
+    ],
+    "bounds": [
+      0,
+      1784,
+      1080,
+      1888
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 2,
+    "class": "TextView",
+    "resource_id": "com.sankuai.meituan:id/share_title",
+    "text": "分享至",
+    "bounds": [
+      0,
+      1792,
+      1080,
+      1888
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 3,
+    "class": "ImageView",
+    "resource_id": "com.sankuai.meituan:id/share_panel_close",
+    "bounds": [
+      995,
+      1792,
+      1080,
+      1888
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 4,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.sankuai.meituan:id/share_item_root",
+      "com.sankuai.meituan:id/kh",
+      "com.sankuai.meituan:id/grl",
+      "com.sankuai.meituan:id/share_name"
+    ],
+    "text": [
+      "QQ 好友"
+    ],
+    "bounds": [
+      22,
+      1930,
+      270,
+      2144
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 5,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.sankuai.meituan:id/share_item_root",
+      "com.sankuai.meituan:id/kh",
+      "com.sankuai.meituan:id/grl",
+      "com.sankuai.meituan:id/share_name"
+    ],
+    "text": [
+      "QQ 空间"
+    ],
+    "bounds": [
+      270,
+      1930,
+      540,
+      2144
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 6,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.sankuai.meituan:id/share_item_root",
+      "com.sankuai.meituan:id/kh",
+      "com.sankuai.meituan:id/grl",
+      "com.sankuai.meituan:id/share_name"
+    ],
+    "text": [
+      "复制链接"
+    ],
+    "bounds": [
+      540,
+      1930,
+      810,
+      2144
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 7,
+    "class": "LinearLayout",
+    "resource_id": [
+      "com.sankuai.meituan:id/share_item_root",
+      "com.sankuai.meituan:id/kh",
+      "com.sankuai.meituan:id/grl",
+      "com.sankuai.meituan:id/share_name"
+    ],
+    "text": [
+      "更多"
+    ],
+    "bounds": [
+      810,
+      1930,
+      1058,
+      2144
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  }
+]

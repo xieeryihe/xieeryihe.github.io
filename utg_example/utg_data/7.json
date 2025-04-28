@@ -1,0 +1,340 @@
+[
+  {
+    "node_id": 0,
+    "class": "ViewGroup",
+    "bounds": [
+      0,
+      104,
+      149,
+      225
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 1,
+    "class": "ViewGroup",
+    "bounds": [
+      932,
+      104,
+      1080,
+      225
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 2,
+    "class": "ViewGroup",
+    "text": [
+      "关注"
+    ],
+    "bounds": [
+      833,
+      641,
+      1025,
+      723
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 3,
+    "class": "OCRText",
+    "text": "兰西雅",
+    "bounds": [
+      55,
+      658,
+      188,
+      702
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 4,
+    "class": "OCRText",
+    "text": "Xiya Lan",
+    "bounds": [
+      53,
+      712,
+      186,
+      756
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 5,
+    "class": "OCRText",
+    "text": "4部",
+    "bounds": [
+      504,
+      812,
+      579,
+      860
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 6,
+    "class": "OCRText",
+    "text": "23.09亿",
+    "bounds": [
+      101,
+      814,
+      258,
+      858
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 7,
+    "class": "OCRText",
+    "text": "133.8万",
+    "bounds": [
+      829,
+      814,
+      972,
+      858
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 8,
+    "class": "OCRText",
+    "text": "全部电影票房",
+    "bounds": [
+      82,
+      880,
+      280,
+      921
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 9,
+    "class": "OCRText",
+    "text": "主演作品",
+    "bounds": [
+      472,
+      880,
+      608,
+      921
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 10,
+    "class": "OCRText",
+    "text": "全网粉丝",
+    "bounds": [
+      834,
+      880,
+      969,
+      921
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 11,
+    "class": "OCRText",
+    "text": "演员「歌手",
+    "bounds": [
+      41,
+      1038,
+      241,
+      1080
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 12,
+    "class": "OCRText",
+    "text": "生日：12-22",
+    "bounds": [
+      43,
+      1148,
+      251,
+      1189
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 13,
+    "class": "OCRText",
+    "text": "简介：兰西雅，1998年12月22日出生于湖北省恩施市，毕业",
+    "bounds": [
+      46,
+      1241,
+      1034,
+      1275
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 14,
+    "class": "OCRText",
+    "text": "于武汉大学戏剧表演系，中国内地影视女演员、歌手。2017",
+    "bounds": [
+      48,
+      1324,
+      1025,
+      1358
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 15,
+    "class": "OCRText",
+    "text": "年，考取武汉大学戏剧影视表演。2019年，兰西雅参加选秀",
+    "bounds": [
+      41,
+      1402,
+      1029,
+      1445
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 16,
+    "class": "OCRText",
+    "text": "综艺节目《明日之子水晶时代》，首次进入大众视野，但在",
+    "bounds": [
+      41,
+      1484,
+      1005,
+      1528
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 17,
+    "class": "OCRText",
+    "text": "节目结束之后，选择回到武汉大学，继续完成表演专业的",
+    "bounds": [
+      46,
+      1575,
+      991,
+      1609
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 18,
+    "class": "OCRText",
+    "text": "学业。2020年，参演的抗疫报告剧《在一起》播出，其为单",
+    "bounds": [
+      46,
+      1657,
+      1012,
+      1692
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 19,
+    "class": "OCRText",
+    "text": "元《火神山》的主演之一。2021年至2022年，出演的都市情",
+    "bounds": [
+      46,
+      1740,
+      1029,
+      1774
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 20,
+    "class": "OCRText",
+    "text": "感喜剧《假白暖洋洋》和《假日暖洋洋2》相继播出，并演唱",
+    "bounds": [
+      48,
+      1823,
+      1022,
+      1857
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 21,
+    "class": "OCRText",
+    "text": "插曲《第七颗星星》。2023年12月，参演的喜剧电影《年会",
+    "bounds": [
+      46,
+      1906,
+      1005,
+      1940
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 22,
+    "class": "OCRText",
+    "text": "不能停！》上映，兰西雅在开拍摄前观察很多同学上班的样",
+    "bounds": [
+      46,
+      1989,
+      1010,
+      2023
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 23,
+    "class": "OCRText",
+    "text": "子，去感受上班族的焦虑。2023年4月，她参演的奇幻仙侠",
+    "bounds": [
+      46,
+      2072,
+      1020,
+      2106
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 24,
+    "class": "OCRText",
+    "text": "剧《长月烬明》播出，她在剧中演绎了夜魅角色。2024年3",
+    "bounds": [
+      46,
+      2155,
+      1010,
+      2189
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 25,
+    "class": "OCRText",
+    "text": "月，主演的民国谍战剧《追风者》开播，该剧是兰西雅第一",
+    "bounds": [
+      46,
+      2238,
+      1012,
+      2272
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  }
+]

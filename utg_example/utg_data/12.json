@@ -1,0 +1,258 @@
+[
+  {
+    "node_id": 0,
+    "class": "ViewGroup",
+    "bounds": [
+      984,
+      110,
+      1080,
+      192
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 1,
+    "class": "ViewGroup",
+    "bounds": [
+      0,
+      118,
+      94,
+      184
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 2,
+    "class": "OCRText",
+    "text": "向阳·花",
+    "bounds": [
+      460,
+      132,
+      620,
+      176
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 3,
+    "class": "ViewGroup",
+    "bounds": [
+      0,
+      206,
+      1080,
+      814
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 4,
+    "class": "OCRText",
+    "text": "《向阳·花》预售开启赵丽颖高月香终极爆发猛砸恶",
+    "bounds": [
+      48,
+      853,
+      1032,
+      895
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 5,
+    "class": "OCRText",
+    "text": "人",
+    "bounds": [
+      41,
+      909,
+      84,
+      953
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 6,
+    "class": "OCRText",
+    "text": "110",
+    "bounds": [
+      39,
+      1009,
+      140,
+      1046
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 7,
+    "class": "ViewGroup",
+    "text": [
+      "向阳·花",
+      "猫眼评分 9.3",
+      "购票",
+      "2025-04-04 09:00中国大陆上映"
+    ],
+    "bounds": [
+      0,
+      1050,
+      1080,
+      1366
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 8,
+    "class": "OCRText",
+    "text": "全部视频20部",
+    "bounds": [
+      39,
+      1455,
+      321,
+      1504
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 9,
+    "class": "ViewGroup",
+    "text": [
+      "播放中",
+      "00:45",
+      "《向阳·花》预售..."
+    ],
+    "bounds": [
+      0,
+      1560,
+      426,
+      1876
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 10,
+    "class": "ViewGroup",
+    "text": [
+      "00:42",
+      "《向阳·花》发布..."
+    ],
+    "bounds": [
+      426,
+      1560,
+      853,
+      1876
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 11,
+    "class": "ViewGroup",
+    "text": [
+      "00:51",
+      "《向阳·花》发布..."
+    ],
+    "bounds": [
+      853,
+      1560,
+      1080,
+      1876
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 12,
+    "class": "OCRText",
+    "text": "评论 (110)",
+    "bounds": [
+      39,
+      1952,
+      239,
+      1996
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 13,
+    "class": "ViewGroup",
+    "bounds": [
+      41,
+      2071,
+      138,
+      2159
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 14,
+    "class": "ViewGroup",
+    "bounds": [
+      942,
+      2071,
+      1024,
+      2153
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 15,
+    "class": "OCRText",
+    "text": "李先生9004",
+    "bounds": [
+      176,
+      2077,
+      381,
+      2118
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 16,
+    "class": "OCRText",
+    "text": "Lv1",
+    "bounds": [
+      398,
+      2082,
+      480,
+      2108
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 17,
+    "class": "EditText",
+    "text": "写评论...",
+    "bounds": [
+      41,
+      2173,
+      929,
+      2283
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 18,
+    "class": "ViewGroup",
+    "bounds": [
+      970,
+      2193,
+      1080,
+      2262
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  }
+]

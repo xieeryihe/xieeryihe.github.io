@@ -1,0 +1,139 @@
+[
+  {
+    "node_id": 0,
+    "class": "ViewGroup",
+    "text": [
+      " 发布"
+    ],
+    "bounds": [
+      877,
+      102,
+      1080,
+      228
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 1,
+    "class": "ViewGroup",
+    "text": [
+      " 取消 "
+    ],
+    "bounds": [
+      0,
+      109,
+      204,
+      220
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 2,
+    "class": "OCRText",
+    "text": "看过",
+    "bounds": [
+      497,
+      115,
+      586,
+      163
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 3,
+    "class": "OCRText",
+    "text": "向阳·花",
+    "bounds": [
+      479,
+      175,
+      603,
+      222
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 4,
+    "class": "ViewGroup",
+    "text": [
+      "审核通过后，有机会获得成长值哟",
+      "了解成长值"
+    ],
+    "bounds": [
+      28,
+      259,
+      1053,
+      347
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 5,
+    "class": "OCRText",
+    "text": "这是你在猫眼记录的第3部作品",
+    "bounds": [
+      48,
+      419,
+      530,
+      461
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 6,
+    "class": "OCRText",
+    "text": "可以拖动星星评分",
+    "bounds": [
+      764,
+      551,
+      1032,
+      592
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 7,
+    "class": "OCRText",
+    "text": "评分",
+    "bounds": [
+      53,
+      553,
+      130,
+      590
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 8,
+    "class": "EditText",
+    "text": "大家都在问：剧情怎么样，画面好吗，演技如何？",
+    "bounds": [
+      41,
+      691,
+      1039,
+      1346
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  },
+  {
+    "node_id": 9,
+    "class": "OCRText",
+    "text": "为保证公正，未购票用户评分不计入猫眼评分",
+    "bounds": [
+      215,
+      2223,
+      863,
+      2257
+    ],
+    "shouldVisit": true,
+    "isVisited": false
+  }
+]
